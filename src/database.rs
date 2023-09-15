@@ -17,5 +17,10 @@ pub async fn connect(path: &Path) -> Result<SqlitePool, sqlx::Error> {
         .connect_with(connect_options)
         .await?;
 
+    run_migrations(&pool).await?;
     Ok(pool)
+}
+
+pub async fn run_migrations(pool: &SqlitePool) -> Result<(), sqlx::Error> {
+    Ok(sqlx::migrate!("./migrations").run(pool).await?)
 }
