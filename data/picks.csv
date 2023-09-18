@@ -1,0 +1,1393 @@
+player_name,week,game_number,winning_team,confidence,method,submission_time_utc,grace_indicator
+Colleen Murphy,1,1,Kansas City Chiefs,14,Manual,2023-08-30 20:55:58,0
+Colleen Murphy,1,2,Washington Commanders,16,Manual,2023-08-30 20:55:58,0
+Colleen Murphy,1,3,Carolina Panthers,2,Manual,2023-08-30 20:55:58,0
+Colleen Murphy,1,4,Cincinnati Bengals,3,Manual,2023-08-30 20:55:58,0
+Colleen Murphy,1,5,Baltimore Ravens,13,Manual,2023-08-30 20:55:58,0
+Colleen Murphy,1,6,Jacksonville Jaguars,1,Manual,2023-08-30 20:55:58,0
+Colleen Murphy,1,7,San Francisco 49ers,4,Manual,2023-08-30 20:55:58,0
+Colleen Murphy,1,8,Minnesota Vikings,15,Manual,2023-08-30 20:55:58,0
+Colleen Murphy,1,9,New Orleans Saints,5,Manual,2023-08-30 20:55:58,0
+Colleen Murphy,1,10,Chicago Bears,8,Manual,2023-08-30 20:55:58,0
+Colleen Murphy,1,11,Denver Broncos,9,Manual,2023-08-30 20:55:58,0
+Colleen Murphy,1,12,Seattle Seahawks,12,Manual,2023-08-30 20:55:58,0
+Colleen Murphy,1,13,Los Angeles Chargers,10,Manual,2023-08-30 20:55:58,0
+Colleen Murphy,1,14,Philadelphia Eagles,7,Manual,2023-08-30 20:55:58,0
+Colleen Murphy,1,15,Dallas Cowboys,6,Manual,2023-08-30 20:55:58,0
+Colleen Murphy,1,16,Buffalo Bills,11,Manual,2023-08-30 20:55:58,0
+Lawrence Kim,1,1,Kansas City Chiefs,15,Manual,2023-08-31 09:17:25,0
+Lawrence Kim,1,2,Arizona Cardinals,1,Manual,2023-08-31 09:17:25,0
+Lawrence Kim,1,3,Atlanta Falcons,2,Manual,2023-08-31 09:17:25,0
+Lawrence Kim,1,4,Cincinnati Bengals,10,Manual,2023-08-31 09:17:25,0
+Lawrence Kim,1,5,Baltimore Ravens,13,Manual,2023-08-31 09:17:25,0
+Lawrence Kim,1,6,Indianapolis Colts,3,Manual,2023-08-31 09:17:25,0
+Lawrence Kim,1,7,Pittsburgh Steelers,16,Manual,2023-08-31 09:17:25,0
+Lawrence Kim,1,8,Minnesota Vikings,11,Manual,2023-08-31 09:17:25,0
+Lawrence Kim,1,9,Tennessee Titans,8,Manual,2023-08-31 09:17:25,0
+Lawrence Kim,1,10,Chicago Bears,4,Manual,2023-08-31 09:17:25,0
+Lawrence Kim,1,11,Denver Broncos,9,Manual,2023-08-31 09:17:25,0
+Lawrence Kim,1,12,Los Angeles Rams,5,Manual,2023-08-31 09:17:25,0
+Lawrence Kim,1,13,Los Angeles Chargers,7,Manual,2023-08-31 09:17:25,0
+Lawrence Kim,1,14,Philadelphia Eagles,14,Manual,2023-08-31 09:17:25,0
+Lawrence Kim,1,15,New York Giants,6,Manual,2023-08-31 09:17:25,0
+Lawrence Kim,1,16,Buffalo Bills,12,Manual,2023-08-31 09:17:25,0
+Adam Hansen,1,1,Kansas City Chiefs,12,Manual,2023-08-31 09:24:06,0
+Adam Hansen,1,2,Washington Commanders,2,Manual,2023-08-31 09:24:06,0
+Adam Hansen,1,3,Atlanta Falcons,1,Manual,2023-08-31 09:24:06,0
+Adam Hansen,1,4,Cincinnati Bengals,11,Manual,2023-08-31 09:24:06,0
+Adam Hansen,1,5,Baltimore Ravens,15,Manual,2023-08-31 09:24:06,0
+Adam Hansen,1,6,Jacksonville Jaguars,14,Manual,2023-08-31 09:24:06,0
+Adam Hansen,1,7,San Francisco 49ers,16,Manual,2023-08-31 09:24:06,0
+Adam Hansen,1,8,Minnesota Vikings,10,Manual,2023-08-31 09:24:06,0
+Adam Hansen,1,9,New Orleans Saints,6,Manual,2023-08-31 09:24:06,0
+Adam Hansen,1,10,Green Bay Packers,4,Manual,2023-08-31 09:24:06,0
+Adam Hansen,1,11,Denver Broncos,3,Manual,2023-08-31 09:24:06,0
+Adam Hansen,1,12,Los Angeles Rams,7,Manual,2023-08-31 09:24:06,0
+Adam Hansen,1,13,Miami Dolphins,8,Manual,2023-08-31 09:24:06,0
+Adam Hansen,1,14,Philadelphia Eagles,13,Manual,2023-08-31 09:24:06,0
+Adam Hansen,1,15,Dallas Cowboys,9,Manual,2023-08-31 09:24:06,0
+Adam Hansen,1,16,New York Jets,5,Manual,2023-08-31 09:24:06,0
+Edwin Chong,1,1,Kansas City Chiefs,15,Manual,2023-08-31 09:50:43,0
+Edwin Chong,1,2,Arizona Cardinals,7,Manual,2023-08-31 09:50:43,0
+Edwin Chong,1,3,Carolina Panthers,3,Manual,2023-08-31 09:50:43,0
+Edwin Chong,1,4,Cincinnati Bengals,9,Manual,2023-08-31 09:50:43,0
+Edwin Chong,1,5,Baltimore Ravens,5,Manual,2023-08-31 09:50:43,0
+Edwin Chong,1,6,Jacksonville Jaguars,1,Manual,2023-08-31 09:50:43,0
+Edwin Chong,1,7,San Francisco 49ers,8,Manual,2023-08-31 09:50:43,0
+Edwin Chong,1,8,Tampa Bay Buccaneers,11,Manual,2023-08-31 09:50:43,0
+Edwin Chong,1,9,New Orleans Saints,4,Manual,2023-08-31 09:50:43,0
+Edwin Chong,1,10,Green Bay Packers,2,Manual,2023-08-31 09:50:43,0
+Edwin Chong,1,11,Las Vegas Raiders,10,Manual,2023-08-31 09:50:43,0
+Edwin Chong,1,12,Seattle Seahawks,6,Manual,2023-08-31 09:50:43,0
+Edwin Chong,1,13,Miami Dolphins,12,Manual,2023-08-31 09:50:43,0
+Edwin Chong,1,14,Philadelphia Eagles,14,Manual,2023-08-31 09:50:43,0
+Edwin Chong,1,15,Dallas Cowboys,13,Manual,2023-08-31 09:50:43,0
+Edwin Chong,1,16,Buffalo Bills,16,Manual,2023-08-31 09:50:43,0
+Dan Burger,1,1,Kansas City Chiefs,9,Manual,2023-08-31 09:58:05,0
+Dan Burger,1,2,Washington Commanders,12,Manual,2023-08-31 09:58:05,0
+Dan Burger,1,3,Atlanta Falcons,6,Manual,2023-08-31 09:58:05,0
+Dan Burger,1,4,Cincinnati Bengals,11,Manual,2023-08-31 09:58:05,0
+Dan Burger,1,5,Baltimore Ravens,16,Manual,2023-08-31 09:58:05,0
+Dan Burger,1,6,Jacksonville Jaguars,15,Manual,2023-08-31 09:58:05,0
+Dan Burger,1,7,San Francisco 49ers,5,Manual,2023-08-31 09:58:05,0
+Dan Burger,1,8,Minnesota Vikings,14,Manual,2023-08-31 09:58:05,0
+Dan Burger,1,9,New Orleans Saints,4,Manual,2023-08-31 09:58:05,0
+Dan Burger,1,10,Green Bay Packers,3,Manual,2023-08-31 09:58:05,0
+Dan Burger,1,11,Las Vegas Raiders,10,Manual,2023-08-31 09:58:05,0
+Dan Burger,1,12,Seattle Seahawks,13,Manual,2023-08-31 09:58:05,0
+Dan Burger,1,13,Los Angeles Chargers,8,Manual,2023-08-31 09:58:05,0
+Dan Burger,1,14,Philadelphia Eagles,7,Manual,2023-08-31 09:58:05,0
+Dan Burger,1,15,New York Giants,2,Manual,2023-08-31 09:58:05,0
+Dan Burger,1,16,New York Jets,1,Manual,2023-08-31 09:58:05,0
+John Stilley,1,1,Kansas City Chiefs,14,Manual,2023-08-31 10:28:51,0
+John Stilley,1,2,Washington Commanders,15,Manual,2023-08-31 10:28:51,0
+John Stilley,1,3,Atlanta Falcons,9,Manual,2023-08-31 10:28:51,0
+John Stilley,1,4,Cincinnati Bengals,1,Manual,2023-08-31 10:28:51,0
+John Stilley,1,5,Baltimore Ravens,16,Manual,2023-08-31 10:28:51,0
+John Stilley,1,6,Jacksonville Jaguars,6,Manual,2023-08-31 10:28:51,0
+John Stilley,1,7,San Francisco 49ers,5,Manual,2023-08-31 10:28:51,0
+John Stilley,1,8,Minnesota Vikings,13,Manual,2023-08-31 10:28:51,0
+John Stilley,1,9,New Orleans Saints,8,Manual,2023-08-31 10:28:51,0
+John Stilley,1,10,Chicago Bears,2,Manual,2023-08-31 10:28:51,0
+John Stilley,1,11,Denver Broncos,11,Manual,2023-08-31 10:28:51,0
+John Stilley,1,12,Seattle Seahawks,12,Manual,2023-08-31 10:28:51,0
+John Stilley,1,13,Los Angeles Chargers,4,Manual,2023-08-31 10:28:51,0
+John Stilley,1,14,Philadelphia Eagles,10,Manual,2023-08-31 10:28:51,0
+John Stilley,1,15,Dallas Cowboys,7,Manual,2023-08-31 10:28:51,0
+John Stilley,1,16,Buffalo Bills,3,Manual,2023-08-31 10:28:51,0
+Frank Walle,1,1,Kansas City Chiefs,15,Manual,2023-08-31 10:38:54,0
+Frank Walle,1,2,Washington Commanders,13,Manual,2023-08-31 10:38:54,0
+Frank Walle,1,3,Atlanta Falcons,4,Manual,2023-08-31 10:38:54,0
+Frank Walle,1,4,Cincinnati Bengals,12,Manual,2023-08-31 10:38:54,0
+Frank Walle,1,5,Baltimore Ravens,16,Manual,2023-08-31 10:38:54,0
+Frank Walle,1,6,Indianapolis Colts,3,Manual,2023-08-31 10:38:54,0
+Frank Walle,1,7,San Francisco 49ers,2,Manual,2023-08-31 10:38:54,0
+Frank Walle,1,8,Minnesota Vikings,11,Manual,2023-08-31 10:38:54,0
+Frank Walle,1,9,New Orleans Saints,5,Manual,2023-08-31 10:38:54,0
+Frank Walle,1,10,Green Bay Packers,1,Manual,2023-08-31 10:38:54,0
+Frank Walle,1,11,Denver Broncos,8,Manual,2023-08-31 10:38:54,0
+Frank Walle,1,12,Seattle Seahawks,14,Manual,2023-08-31 10:38:54,0
+Frank Walle,1,13,Los Angeles Chargers,6,Manual,2023-08-31 10:38:54,0
+Frank Walle,1,14,Philadelphia Eagles,10,Manual,2023-08-31 10:38:54,0
+Frank Walle,1,15,Dallas Cowboys,7,Manual,2023-08-31 10:38:54,0
+Frank Walle,1,16,Buffalo Bills,9,Manual,2023-08-31 10:38:54,0
+Riley Hauser,1,1,Kansas City Chiefs,11,Manual,2023-08-31 11:14:55,0
+Riley Hauser,1,2,Washington Commanders,7,Manual,2023-08-31 11:14:55,0
+Riley Hauser,1,3,Carolina Panthers,8,Manual,2023-08-31 11:14:55,0
+Riley Hauser,1,4,Cincinnati Bengals,5,Manual,2023-08-31 11:14:55,0
+Riley Hauser,1,5,Baltimore Ravens,6,Manual,2023-08-31 11:14:55,0
+Riley Hauser,1,6,Jacksonville Jaguars,12,Manual,2023-08-31 11:14:55,0
+Riley Hauser,1,7,San Francisco 49ers,14,Manual,2023-08-31 11:14:55,0
+Riley Hauser,1,8,Minnesota Vikings,10,Manual,2023-08-31 11:14:55,0
+Riley Hauser,1,9,Tennessee Titans,4,Manual,2023-08-31 11:14:55,0
+Riley Hauser,1,10,Chicago Bears,13,Manual,2023-08-31 11:14:55,0
+Riley Hauser,1,11,Denver Broncos,1,Manual,2023-08-31 11:14:55,0
+Riley Hauser,1,12,Seattle Seahawks,9,Manual,2023-08-31 11:14:55,0
+Riley Hauser,1,13,Miami Dolphins,3,Manual,2023-08-31 11:14:55,0
+Riley Hauser,1,14,Philadelphia Eagles,16,Manual,2023-08-31 11:14:55,0
+Riley Hauser,1,15,Dallas Cowboys,2,Manual,2023-08-31 11:14:55,0
+Riley Hauser,1,16,Buffalo Bills,15,Manual,2023-08-31 11:14:55,0
+A.J. Vincent,1,1,Kansas City Chiefs,16,Manual,2023-08-31 11:15:25,0
+A.J. Vincent,1,2,Washington Commanders,5,Manual,2023-08-31 11:15:25,0
+A.J. Vincent,1,3,Atlanta Falcons,6,Manual,2023-08-31 11:15:25,0
+A.J. Vincent,1,4,Cincinnati Bengals,9,Manual,2023-08-31 11:15:25,0
+A.J. Vincent,1,5,Baltimore Ravens,11,Manual,2023-08-31 11:15:25,0
+A.J. Vincent,1,6,Jacksonville Jaguars,7,Manual,2023-08-31 11:15:25,0
+A.J. Vincent,1,7,San Francisco 49ers,13,Manual,2023-08-31 11:15:25,0
+A.J. Vincent,1,8,Minnesota Vikings,12,Manual,2023-08-31 11:15:25,0
+A.J. Vincent,1,9,New Orleans Saints,2,Manual,2023-08-31 11:15:25,0
+A.J. Vincent,1,10,Chicago Bears,10,Manual,2023-08-31 11:15:25,0
+A.J. Vincent,1,11,Denver Broncos,1,Manual,2023-08-31 11:15:25,0
+A.J. Vincent,1,12,Los Angeles Rams,3,Manual,2023-08-31 11:15:25,0
+A.J. Vincent,1,13,Miami Dolphins,8,Manual,2023-08-31 11:15:25,0
+A.J. Vincent,1,14,Philadelphia Eagles,15,Manual,2023-08-31 11:15:25,0
+A.J. Vincent,1,15,New York Giants,4,Manual,2023-08-31 11:15:25,0
+A.J. Vincent,1,16,New York Jets,14,Manual,2023-08-31 11:15:25,0
+Kagei-Shin Qin,1,1,Detroit Lions,8,Manual,2023-08-31 11:31:24,0
+Kagei-Shin Qin,1,2,Washington Commanders,6,Manual,2023-08-31 11:31:24,0
+Kagei-Shin Qin,1,3,Atlanta Falcons,12,Manual,2023-08-31 11:31:24,0
+Kagei-Shin Qin,1,4,Cincinnati Bengals,4,Manual,2023-08-31 11:31:24,0
+Kagei-Shin Qin,1,5,Houston Texans,2,Manual,2023-08-31 11:31:24,0
+Kagei-Shin Qin,1,6,Indianapolis Colts,7,Manual,2023-08-31 11:31:24,0
+Kagei-Shin Qin,1,7,Pittsburgh Steelers,11,Manual,2023-08-31 11:31:24,0
+Kagei-Shin Qin,1,8,Minnesota Vikings,13,Manual,2023-08-31 11:31:24,0
+Kagei-Shin Qin,1,9,New Orleans Saints,9,Manual,2023-08-31 11:31:24,0
+Kagei-Shin Qin,1,10,Green Bay Packers,16,Manual,2023-08-31 11:31:24,0
+Kagei-Shin Qin,1,11,Denver Broncos,1,Manual,2023-08-31 11:31:24,0
+Kagei-Shin Qin,1,12,Seattle Seahawks,14,Manual,2023-08-31 11:31:24,0
+Kagei-Shin Qin,1,13,Miami Dolphins,15,Manual,2023-08-31 11:31:24,0
+Kagei-Shin Qin,1,14,New England Patriots,10,Manual,2023-08-31 11:31:24,0
+Kagei-Shin Qin,1,15,Dallas Cowboys,5,Manual,2023-08-31 11:31:24,0
+Kagei-Shin Qin,1,16,New York Jets,3,Manual,2023-08-31 11:31:24,0
+Jonathan Marasco,1,1,Kansas City Chiefs,9,Manual,2023-08-31 11:36:35,0
+Jonathan Marasco,1,2,Washington Commanders,12,Manual,2023-08-31 11:36:35,0
+Jonathan Marasco,1,3,Carolina Panthers,5,Manual,2023-08-31 11:36:35,0
+Jonathan Marasco,1,4,Cincinnati Bengals,10,Manual,2023-08-31 11:36:35,0
+Jonathan Marasco,1,5,Baltimore Ravens,15,Manual,2023-08-31 11:36:35,0
+Jonathan Marasco,1,6,Jacksonville Jaguars,14,Manual,2023-08-31 11:36:35,0
+Jonathan Marasco,1,7,Pittsburgh Steelers,4,Manual,2023-08-31 11:36:35,0
+Jonathan Marasco,1,8,Minnesota Vikings,16,Manual,2023-08-31 11:36:35,0
+Jonathan Marasco,1,9,Tennessee Titans,8,Manual,2023-08-31 11:36:35,0
+Jonathan Marasco,1,10,Chicago Bears,3,Manual,2023-08-31 11:36:35,0
+Jonathan Marasco,1,11,Las Vegas Raiders,1,Manual,2023-08-31 11:36:35,0
+Jonathan Marasco,1,12,Seattle Seahawks,13,Manual,2023-08-31 11:36:35,0
+Jonathan Marasco,1,13,Los Angeles Chargers,2,Manual,2023-08-31 11:36:35,0
+Jonathan Marasco,1,14,Philadelphia Eagles,11,Manual,2023-08-31 11:36:35,0
+Jonathan Marasco,1,15,Dallas Cowboys,7,Manual,2023-08-31 11:36:35,0
+Jonathan Marasco,1,16,Buffalo Bills,6,Manual,2023-08-31 11:36:35,0
+Mark Lehane,1,1,Kansas City Chiefs,13,Manual,2023-08-31 12:24:37,0
+Mark Lehane,1,2,Washington Commanders,15,Manual,2023-08-31 12:24:37,0
+Mark Lehane,1,3,Atlanta Falcons,9,Manual,2023-08-31 12:24:37,0
+Mark Lehane,1,4,Cincinnati Bengals,3,Manual,2023-08-31 12:24:37,0
+Mark Lehane,1,5,Baltimore Ravens,16,Manual,2023-08-31 12:24:37,0
+Mark Lehane,1,6,Jacksonville Jaguars,12,Manual,2023-08-31 12:24:37,0
+Mark Lehane,1,7,San Francisco 49ers,1,Manual,2023-08-31 12:24:37,0
+Mark Lehane,1,8,Minnesota Vikings,14,Manual,2023-08-31 12:24:37,0
+Mark Lehane,1,9,New Orleans Saints,5,Manual,2023-08-31 12:24:37,0
+Mark Lehane,1,10,Chicago Bears,2,Manual,2023-08-31 12:24:37,0
+Mark Lehane,1,11,Denver Broncos,10,Manual,2023-08-31 12:24:37,0
+Mark Lehane,1,12,Seattle Seahawks,11,Manual,2023-08-31 12:24:37,0
+Mark Lehane,1,13,Los Angeles Chargers,6,Manual,2023-08-31 12:24:37,0
+Mark Lehane,1,14,Philadelphia Eagles,7,Manual,2023-08-31 12:24:37,0
+Mark Lehane,1,15,Dallas Cowboys,8,Manual,2023-08-31 12:24:37,0
+Mark Lehane,1,16,Buffalo Bills,4,Manual,2023-08-31 12:24:37,0
+Ariane Belli De Souza,1,1,Kansas City Chiefs,14,Manual,2023-08-31 12:26:28,0
+Ariane Belli De Souza,1,2,Washington Commanders,1,Manual,2023-08-31 12:26:28,0
+Ariane Belli De Souza,1,3,Carolina Panthers,2,Manual,2023-08-31 12:26:28,0
+Ariane Belli De Souza,1,4,Cleveland Browns,3,Manual,2023-08-31 12:26:28,0
+Ariane Belli De Souza,1,5,Baltimore Ravens,11,Manual,2023-08-31 12:26:28,0
+Ariane Belli De Souza,1,6,Jacksonville Jaguars,5,Manual,2023-08-31 12:26:28,0
+Ariane Belli De Souza,1,7,Pittsburgh Steelers,12,Manual,2023-08-31 12:26:28,0
+Ariane Belli De Souza,1,8,Tampa Bay Buccaneers,7,Manual,2023-08-31 12:26:28,0
+Ariane Belli De Souza,1,9,New Orleans Saints,8,Manual,2023-08-31 12:26:28,0
+Ariane Belli De Souza,1,10,Chicago Bears,6,Manual,2023-08-31 12:26:28,0
+Ariane Belli De Souza,1,11,Las Vegas Raiders,10,Manual,2023-08-31 12:26:28,0
+Ariane Belli De Souza,1,12,Seattle Seahawks,4,Manual,2023-08-31 12:26:28,0
+Ariane Belli De Souza,1,13,Los Angeles Chargers,13,Manual,2023-08-31 12:26:28,0
+Ariane Belli De Souza,1,14,Philadelphia Eagles,9,Manual,2023-08-31 12:26:28,0
+Ariane Belli De Souza,1,15,Dallas Cowboys,16,Manual,2023-08-31 12:26:28,0
+Ariane Belli De Souza,1,16,Buffalo Bills,15,Manual,2023-08-31 12:26:28,0
+James Bischoff,1,1,Kansas City Chiefs,16,Manual,2023-08-31 12:28:55,0
+James Bischoff,1,2,Washington Commanders,7,Manual,2023-08-31 12:28:55,0
+James Bischoff,1,3,Atlanta Falcons,11,Manual,2023-08-31 12:28:55,0
+James Bischoff,1,4,Cincinnati Bengals,10,Manual,2023-08-31 12:28:55,0
+James Bischoff,1,5,Baltimore Ravens,12,Manual,2023-08-31 12:28:55,0
+James Bischoff,1,6,Jacksonville Jaguars,3,Manual,2023-08-31 12:28:55,0
+James Bischoff,1,7,San Francisco 49ers,6,Manual,2023-08-31 12:28:55,0
+James Bischoff,1,8,Minnesota Vikings,8,Manual,2023-08-31 12:28:55,0
+James Bischoff,1,9,Tennessee Titans,4,Manual,2023-08-31 12:28:55,0
+James Bischoff,1,10,Chicago Bears,13,Manual,2023-08-31 12:28:55,0
+James Bischoff,1,11,Las Vegas Raiders,9,Manual,2023-08-31 12:28:55,0
+James Bischoff,1,12,Seattle Seahawks,14,Manual,2023-08-31 12:28:55,0
+James Bischoff,1,13,Los Angeles Chargers,2,Manual,2023-08-31 12:28:55,0
+James Bischoff,1,14,Philadelphia Eagles,15,Manual,2023-08-31 12:28:55,0
+James Bischoff,1,15,Dallas Cowboys,1,Manual,2023-08-31 12:28:55,0
+James Bischoff,1,16,New York Jets,5,Manual,2023-08-31 12:28:55,0
+Shelley Russo,1,1,Kansas City Chiefs,15,Manual,2023-08-31 13:03:22,0
+Shelley Russo,1,2,Arizona Cardinals,4,Manual,2023-08-31 13:03:22,0
+Shelley Russo,1,3,Carolina Panthers,3,Manual,2023-08-31 13:03:22,0
+Shelley Russo,1,4,Cincinnati Bengals,7,Manual,2023-08-31 13:03:22,0
+Shelley Russo,1,5,Baltimore Ravens,11,Manual,2023-08-31 13:03:22,0
+Shelley Russo,1,6,Indianapolis Colts,9,Manual,2023-08-31 13:03:22,0
+Shelley Russo,1,7,San Francisco 49ers,8,Manual,2023-08-31 13:03:22,0
+Shelley Russo,1,8,Tampa Bay Buccaneers,13,Manual,2023-08-31 13:03:22,0
+Shelley Russo,1,9,Tennessee Titans,5,Manual,2023-08-31 13:03:22,0
+Shelley Russo,1,10,Green Bay Packers,12,Manual,2023-08-31 13:03:22,0
+Shelley Russo,1,11,Denver Broncos,2,Manual,2023-08-31 13:03:22,0
+Shelley Russo,1,12,Los Angeles Rams,14,Manual,2023-08-31 13:03:22,0
+Shelley Russo,1,13,Los Angeles Chargers,6,Manual,2023-08-31 13:03:22,0
+Shelley Russo,1,14,Philadelphia Eagles,1,Manual,2023-08-31 13:03:22,0
+Shelley Russo,1,15,Dallas Cowboys,10,Manual,2023-08-31 13:03:22,0
+Shelley Russo,1,16,Buffalo Bills,16,Manual,2023-08-31 13:03:22,0
+Ariane Belli De Souza,1,1,Kansas City Chiefs,16,Manual,2023-08-31 13:17:03,0
+Ariane Belli De Souza,1,2,Washington Commanders,1,Manual,2023-08-31 13:17:03,0
+Ariane Belli De Souza,1,3,Carolina Panthers,2,Manual,2023-08-31 13:17:03,0
+Ariane Belli De Souza,1,4,Cincinnati Bengals,13,Manual,2023-08-31 13:17:03,0
+Ariane Belli De Souza,1,5,Baltimore Ravens,11,Manual,2023-08-31 13:17:03,0
+Ariane Belli De Souza,1,6,Jacksonville Jaguars,5,Manual,2023-08-31 13:17:03,0
+Ariane Belli De Souza,1,7,Pittsburgh Steelers,12,Manual,2023-08-31 13:17:03,0
+Ariane Belli De Souza,1,8,Tampa Bay Buccaneers,7,Manual,2023-08-31 13:17:03,0
+Ariane Belli De Souza,1,9,New Orleans Saints,8,Manual,2023-08-31 13:17:03,0
+Ariane Belli De Souza,1,10,Chicago Bears,6,Manual,2023-08-31 13:17:03,0
+Ariane Belli De Souza,1,11,Las Vegas Raiders,3,Manual,2023-08-31 13:17:03,0
+Ariane Belli De Souza,1,12,Seattle Seahawks,4,Manual,2023-08-31 13:17:03,0
+Ariane Belli De Souza,1,13,Los Angeles Chargers,14,Manual,2023-08-31 13:17:03,0
+Ariane Belli De Souza,1,14,Philadelphia Eagles,9,Manual,2023-08-31 13:17:03,0
+Ariane Belli De Souza,1,15,Dallas Cowboys,10,Manual,2023-08-31 13:17:03,0
+Ariane Belli De Souza,1,16,Buffalo Bills,15,Manual,2023-08-31 13:17:03,0
+Ariane Belli De Souza,1,1,Kansas City Chiefs,16,Manual,2023-08-31 13:17:47,0
+Ariane Belli De Souza,1,2,Washington Commanders,1,Manual,2023-08-31 13:17:47,0
+Ariane Belli De Souza,1,3,Carolina Panthers,2,Manual,2023-08-31 13:17:47,0
+Ariane Belli De Souza,1,4,Cincinnati Bengals,13,Manual,2023-08-31 13:17:47,0
+Ariane Belli De Souza,1,5,Baltimore Ravens,11,Manual,2023-08-31 13:17:47,0
+Ariane Belli De Souza,1,6,Jacksonville Jaguars,5,Manual,2023-08-31 13:17:47,0
+Ariane Belli De Souza,1,7,Pittsburgh Steelers,12,Manual,2023-08-31 13:17:47,0
+Ariane Belli De Souza,1,8,Tampa Bay Buccaneers,7,Manual,2023-08-31 13:17:47,0
+Ariane Belli De Souza,1,9,New Orleans Saints,8,Manual,2023-08-31 13:17:47,0
+Ariane Belli De Souza,1,10,Chicago Bears,6,Manual,2023-08-31 13:17:47,0
+Ariane Belli De Souza,1,11,Las Vegas Raiders,3,Manual,2023-08-31 13:17:47,0
+Ariane Belli De Souza,1,12,Seattle Seahawks,4,Manual,2023-08-31 13:17:47,0
+Ariane Belli De Souza,1,13,Los Angeles Chargers,14,Manual,2023-08-31 13:17:47,0
+Ariane Belli De Souza,1,14,Philadelphia Eagles,9,Manual,2023-08-31 13:17:47,0
+Ariane Belli De Souza,1,15,Dallas Cowboys,10,Manual,2023-08-31 13:17:47,0
+Ariane Belli De Souza,1,16,Buffalo Bills,15,Manual,2023-08-31 13:17:47,0
+Ariane Belli De Souza,1,1,Kansas City Chiefs,16,Manual,2023-08-31 13:18:51,0
+Ariane Belli De Souza,1,2,Washington Commanders,1,Manual,2023-08-31 13:18:51,0
+Ariane Belli De Souza,1,3,Carolina Panthers,2,Manual,2023-08-31 13:18:51,0
+Ariane Belli De Souza,1,4,Cincinnati Bengals,13,Manual,2023-08-31 13:18:51,0
+Ariane Belli De Souza,1,5,Baltimore Ravens,11,Manual,2023-08-31 13:18:51,0
+Ariane Belli De Souza,1,6,Jacksonville Jaguars,5,Manual,2023-08-31 13:18:51,0
+Ariane Belli De Souza,1,7,Pittsburgh Steelers,12,Manual,2023-08-31 13:18:51,0
+Ariane Belli De Souza,1,8,Tampa Bay Buccaneers,7,Manual,2023-08-31 13:18:51,0
+Ariane Belli De Souza,1,9,New Orleans Saints,14,Manual,2023-08-31 13:18:51,0
+Ariane Belli De Souza,1,10,Chicago Bears,6,Manual,2023-08-31 13:18:51,0
+Ariane Belli De Souza,1,11,Las Vegas Raiders,3,Manual,2023-08-31 13:18:51,0
+Ariane Belli De Souza,1,12,Seattle Seahawks,4,Manual,2023-08-31 13:18:51,0
+Ariane Belli De Souza,1,13,Los Angeles Chargers,8,Manual,2023-08-31 13:18:51,0
+Ariane Belli De Souza,1,14,Philadelphia Eagles,9,Manual,2023-08-31 13:18:51,0
+Ariane Belli De Souza,1,15,Dallas Cowboys,10,Manual,2023-08-31 13:18:51,0
+Ariane Belli De Souza,1,16,Buffalo Bills,15,Manual,2023-08-31 13:18:51,0
+Doug Punt,1,1,Kansas City Chiefs,15,Manual,2023-08-31 13:27:36,0
+Doug Punt,1,2,Washington Commanders,14,Manual,2023-08-31 13:27:36,0
+Doug Punt,1,3,Atlanta Falcons,9,Manual,2023-08-31 13:27:36,0
+Doug Punt,1,4,Cleveland Browns,4,Manual,2023-08-31 13:27:36,0
+Doug Punt,1,5,Baltimore Ravens,16,Manual,2023-08-31 13:27:36,0
+Doug Punt,1,6,Jacksonville Jaguars,11,Manual,2023-08-31 13:27:36,0
+Doug Punt,1,7,Pittsburgh Steelers,1,Manual,2023-08-31 13:27:36,0
+Doug Punt,1,8,Minnesota Vikings,13,Manual,2023-08-31 13:27:36,0
+Doug Punt,1,9,New Orleans Saints,6,Manual,2023-08-31 13:27:36,0
+Doug Punt,1,10,Chicago Bears,5,Manual,2023-08-31 13:27:36,0
+Doug Punt,1,11,Las Vegas Raiders,3,Manual,2023-08-31 13:27:36,0
+Doug Punt,1,12,Los Angeles Rams,2,Manual,2023-08-31 13:27:36,0
+Doug Punt,1,13,Los Angeles Chargers,7,Manual,2023-08-31 13:27:36,0
+Doug Punt,1,14,Philadelphia Eagles,12,Manual,2023-08-31 13:27:36,0
+Doug Punt,1,15,Dallas Cowboys,10,Manual,2023-08-31 13:27:36,0
+Doug Punt,1,16,Buffalo Bills,8,Manual,2023-08-31 13:27:36,0
+Shanen Dow,1,1,Kansas City Chiefs,16,Manual,2023-08-31 14:24:31,0
+Shanen Dow,1,2,Washington Commanders,6,Manual,2023-08-31 14:24:31,0
+Shanen Dow,1,3,Carolina Panthers,14,Manual,2023-08-31 14:24:31,0
+Shanen Dow,1,4,Cincinnati Bengals,5,Manual,2023-08-31 14:24:31,0
+Shanen Dow,1,5,Baltimore Ravens,15,Manual,2023-08-31 14:24:31,0
+Shanen Dow,1,6,Jacksonville Jaguars,11,Manual,2023-08-31 14:24:31,0
+Shanen Dow,1,7,San Francisco 49ers,8,Manual,2023-08-31 14:24:31,0
+Shanen Dow,1,8,Minnesota Vikings,12,Manual,2023-08-31 14:24:31,0
+Shanen Dow,1,9,Tennessee Titans,1,Manual,2023-08-31 14:24:31,0
+Shanen Dow,1,10,Chicago Bears,3,Manual,2023-08-31 14:24:31,0
+Shanen Dow,1,11,Denver Broncos,7,Manual,2023-08-31 14:24:31,0
+Shanen Dow,1,12,Seattle Seahawks,9,Manual,2023-08-31 14:24:31,0
+Shanen Dow,1,13,Los Angeles Chargers,4,Manual,2023-08-31 14:24:31,0
+Shanen Dow,1,14,Philadelphia Eagles,10,Manual,2023-08-31 14:24:31,0
+Shanen Dow,1,15,Dallas Cowboys,2,Manual,2023-08-31 14:24:31,0
+Shanen Dow,1,16,Buffalo Bills,13,Manual,2023-08-31 14:24:31,0
+Jeff Daitchman,1,1,Kansas City Chiefs,11,Manual,2023-08-31 15:20:12,0
+Jeff Daitchman,1,2,Washington Commanders,9,Manual,2023-08-31 15:20:12,0
+Jeff Daitchman,1,3,Atlanta Falcons,10,Manual,2023-08-31 15:20:12,0
+Jeff Daitchman,1,4,Cincinnati Bengals,5,Manual,2023-08-31 15:20:12,0
+Jeff Daitchman,1,5,Baltimore Ravens,16,Manual,2023-08-31 15:20:12,0
+Jeff Daitchman,1,6,Jacksonville Jaguars,15,Manual,2023-08-31 15:20:12,0
+Jeff Daitchman,1,7,San Francisco 49ers,12,Manual,2023-08-31 15:20:12,0
+Jeff Daitchman,1,8,Minnesota Vikings,14,Manual,2023-08-31 15:20:12,0
+Jeff Daitchman,1,9,Tennessee Titans,2,Manual,2023-08-31 15:20:12,0
+Jeff Daitchman,1,10,Chicago Bears,3,Manual,2023-08-31 15:20:12,0
+Jeff Daitchman,1,11,Denver Broncos,4,Manual,2023-08-31 15:20:12,0
+Jeff Daitchman,1,12,Seattle Seahawks,13,Manual,2023-08-31 15:20:12,0
+Jeff Daitchman,1,13,Miami Dolphins,1,Manual,2023-08-31 15:20:12,0
+Jeff Daitchman,1,14,Philadelphia Eagles,6,Manual,2023-08-31 15:20:12,0
+Jeff Daitchman,1,15,Dallas Cowboys,8,Manual,2023-08-31 15:20:12,0
+Jeff Daitchman,1,16,Buffalo Bills,7,Manual,2023-08-31 15:20:12,0
+Mark Fuller,1,1,Kansas City Chiefs,15,Manual,2023-09-01 07:15:21,0
+Mark Fuller,1,2,Washington Commanders,12,Manual,2023-09-01 07:15:21,0
+Mark Fuller,1,3,Atlanta Falcons,5,Manual,2023-09-01 07:15:21,0
+Mark Fuller,1,4,Cincinnati Bengals,10,Manual,2023-09-01 07:15:21,0
+Mark Fuller,1,5,Baltimore Ravens,16,Manual,2023-09-01 07:15:21,0
+Mark Fuller,1,6,Jacksonville Jaguars,7,Manual,2023-09-01 07:15:21,0
+Mark Fuller,1,7,San Francisco 49ers,6,Manual,2023-09-01 07:15:21,0
+Mark Fuller,1,8,Minnesota Vikings,14,Manual,2023-09-01 07:15:21,0
+Mark Fuller,1,9,New Orleans Saints,4,Manual,2023-09-01 07:15:21,0
+Mark Fuller,1,10,Chicago Bears,3,Manual,2023-09-01 07:15:21,0
+Mark Fuller,1,11,Denver Broncos,2,Manual,2023-09-01 07:15:21,0
+Mark Fuller,1,12,Seattle Seahawks,11,Manual,2023-09-01 07:15:21,0
+Mark Fuller,1,13,Los Angeles Chargers,1,Manual,2023-09-01 07:15:21,0
+Mark Fuller,1,14,Philadelphia Eagles,9,Manual,2023-09-01 07:15:21,0
+Mark Fuller,1,15,Dallas Cowboys,13,Manual,2023-09-01 07:15:21,0
+Mark Fuller,1,16,Buffalo Bills,8,Manual,2023-09-01 07:15:21,0
+Rob Hryniewicz,1,1,Kansas City Chiefs,16,Manual,2023-09-01 09:25:26,0
+Rob Hryniewicz,1,2,Washington Commanders,12,Manual,2023-09-01 09:25:26,0
+Rob Hryniewicz,1,3,Carolina Panthers,5,Manual,2023-09-01 09:25:26,0
+Rob Hryniewicz,1,4,Cincinnati Bengals,8,Manual,2023-09-01 09:25:26,0
+Rob Hryniewicz,1,5,Baltimore Ravens,14,Manual,2023-09-01 09:25:26,0
+Rob Hryniewicz,1,6,Jacksonville Jaguars,7,Manual,2023-09-01 09:25:26,0
+Rob Hryniewicz,1,7,San Francisco 49ers,10,Manual,2023-09-01 09:25:26,0
+Rob Hryniewicz,1,8,Minnesota Vikings,15,Manual,2023-09-01 09:25:26,0
+Rob Hryniewicz,1,9,Tennessee Titans,6,Manual,2023-09-01 09:25:26,0
+Rob Hryniewicz,1,10,Chicago Bears,4,Manual,2023-09-01 09:25:26,0
+Rob Hryniewicz,1,11,Denver Broncos,11,Manual,2023-09-01 09:25:26,0
+Rob Hryniewicz,1,12,Seattle Seahawks,13,Manual,2023-09-01 09:25:26,0
+Rob Hryniewicz,1,13,Los Angeles Chargers,2,Manual,2023-09-01 09:25:26,0
+Rob Hryniewicz,1,14,Philadelphia Eagles,9,Manual,2023-09-01 09:25:26,0
+Rob Hryniewicz,1,15,New York Giants,3,Manual,2023-09-01 09:25:26,0
+Rob Hryniewicz,1,16,New York Jets,1,Manual,2023-09-01 09:25:26,0
+Dan Litzenberg,1,1,Kansas City Chiefs,11,Manual,2023-09-01 12:49:31,0
+Dan Litzenberg,1,2,Washington Commanders,10,Manual,2023-09-01 12:49:31,0
+Dan Litzenberg,1,3,Atlanta Falcons,4,Manual,2023-09-01 12:49:31,0
+Dan Litzenberg,1,4,Cincinnati Bengals,13,Manual,2023-09-01 12:49:31,0
+Dan Litzenberg,1,5,Baltimore Ravens,15,Manual,2023-09-01 12:49:31,0
+Dan Litzenberg,1,6,Jacksonville Jaguars,16,Manual,2023-09-01 12:49:31,0
+Dan Litzenberg,1,7,San Francisco 49ers,12,Manual,2023-09-01 12:49:31,0
+Dan Litzenberg,1,8,Minnesota Vikings,5,Manual,2023-09-01 12:49:31,0
+Dan Litzenberg,1,9,Tennessee Titans,7,Manual,2023-09-01 12:49:31,0
+Dan Litzenberg,1,10,Chicago Bears,3,Manual,2023-09-01 12:49:31,0
+Dan Litzenberg,1,11,Denver Broncos,6,Manual,2023-09-01 12:49:31,0
+Dan Litzenberg,1,12,Seattle Seahawks,14,Manual,2023-09-01 12:49:31,0
+Dan Litzenberg,1,13,Miami Dolphins,8,Manual,2023-09-01 12:49:31,0
+Dan Litzenberg,1,14,Philadelphia Eagles,9,Manual,2023-09-01 12:49:31,0
+Dan Litzenberg,1,15,New York Giants,2,Manual,2023-09-01 12:49:31,0
+Dan Litzenberg,1,16,New York Jets,1,Manual,2023-09-01 12:49:31,0
+Shaun Opperman,1,1,Kansas City Chiefs,14,Manual,2023-09-01 14:39:11,0
+Shaun Opperman,1,2,Washington Commanders,15,Manual,2023-09-01 14:39:11,0
+Shaun Opperman,1,3,Carolina Panthers,6,Manual,2023-09-01 14:39:11,0
+Shaun Opperman,1,4,Cincinnati Bengals,9,Manual,2023-09-01 14:39:11,0
+Shaun Opperman,1,5,Baltimore Ravens,16,Manual,2023-09-01 14:39:11,0
+Shaun Opperman,1,6,Jacksonville Jaguars,12,Manual,2023-09-01 14:39:11,0
+Shaun Opperman,1,7,San Francisco 49ers,10,Manual,2023-09-01 14:39:11,0
+Shaun Opperman,1,8,Minnesota Vikings,13,Manual,2023-09-01 14:39:11,0
+Shaun Opperman,1,9,Tennessee Titans,5,Manual,2023-09-01 14:39:11,0
+Shaun Opperman,1,10,Green Bay Packers,3,Manual,2023-09-01 14:39:11,0
+Shaun Opperman,1,11,Denver Broncos,4,Manual,2023-09-01 14:39:11,0
+Shaun Opperman,1,12,Seattle Seahawks,11,Manual,2023-09-01 14:39:11,0
+Shaun Opperman,1,13,Los Angeles Chargers,1,Manual,2023-09-01 14:39:11,0
+Shaun Opperman,1,14,Philadelphia Eagles,8,Manual,2023-09-01 14:39:11,0
+Shaun Opperman,1,15,Dallas Cowboys,2,Manual,2023-09-01 14:39:11,0
+Shaun Opperman,1,16,Buffalo Bills,7,Manual,2023-09-01 14:39:11,0
+Paul Frydryk,1,1,Kansas City Chiefs,16,Manual,2023-09-01 15:19:10,0
+Paul Frydryk,1,2,Washington Commanders,8,Manual,2023-09-01 15:19:10,0
+Paul Frydryk,1,3,Carolina Panthers,5,Manual,2023-09-01 15:19:10,0
+Paul Frydryk,1,4,Cincinnati Bengals,14,Manual,2023-09-01 15:19:10,0
+Paul Frydryk,1,5,Baltimore Ravens,9,Manual,2023-09-01 15:19:10,0
+Paul Frydryk,1,6,Indianapolis Colts,1,Manual,2023-09-01 15:19:10,0
+Paul Frydryk,1,7,San Francisco 49ers,15,Manual,2023-09-01 15:19:10,0
+Paul Frydryk,1,8,Minnesota Vikings,3,Manual,2023-09-01 15:19:10,0
+Paul Frydryk,1,9,Tennessee Titans,2,Manual,2023-09-01 15:19:10,0
+Paul Frydryk,1,10,Green Bay Packers,12,Manual,2023-09-01 15:19:10,0
+Paul Frydryk,1,11,Las Vegas Raiders,11,Manual,2023-09-01 15:19:10,0
+Paul Frydryk,1,12,Los Angeles Rams,10,Manual,2023-09-01 15:19:10,0
+Paul Frydryk,1,13,Miami Dolphins,4,Manual,2023-09-01 15:19:10,0
+Paul Frydryk,1,14,New England Patriots,7,Manual,2023-09-01 15:19:10,0
+Paul Frydryk,1,15,New York Giants,6,Manual,2023-09-01 15:19:10,0
+Paul Frydryk,1,16,Buffalo Bills,13,Manual,2023-09-01 15:19:10,0
+Kevin Meeuwsen,1,1,Kansas City Chiefs,14,Manual,2023-09-05 09:14:44,0
+Kevin Meeuwsen,1,2,Washington Commanders,15,Manual,2023-09-05 09:14:44,0
+Kevin Meeuwsen,1,3,Atlanta Falcons,8,Manual,2023-09-05 09:14:44,0
+Kevin Meeuwsen,1,4,Cincinnati Bengals,3,Manual,2023-09-05 09:14:44,0
+Kevin Meeuwsen,1,5,Baltimore Ravens,16,Manual,2023-09-05 09:14:44,0
+Kevin Meeuwsen,1,6,Jacksonville Jaguars,10,Manual,2023-09-05 09:14:44,0
+Kevin Meeuwsen,1,7,San Francisco 49ers,4,Manual,2023-09-05 09:14:44,0
+Kevin Meeuwsen,1,8,Minnesota Vikings,13,Manual,2023-09-05 09:14:44,0
+Kevin Meeuwsen,1,9,New Orleans Saints,7,Manual,2023-09-05 09:14:44,0
+Kevin Meeuwsen,1,10,Chicago Bears,2,Manual,2023-09-05 09:14:44,0
+Kevin Meeuwsen,1,11,Denver Broncos,9,Manual,2023-09-05 09:14:44,0
+Kevin Meeuwsen,1,12,Seattle Seahawks,11,Manual,2023-09-05 09:14:44,0
+Kevin Meeuwsen,1,13,Los Angeles Chargers,5,Manual,2023-09-05 09:14:44,0
+Kevin Meeuwsen,1,14,Philadelphia Eagles,12,Manual,2023-09-05 09:14:44,0
+Kevin Meeuwsen,1,15,Dallas Cowboys,6,Manual,2023-09-05 09:14:44,0
+Kevin Meeuwsen,1,16,Buffalo Bills,1,Manual,2023-09-05 09:14:44,0
+Sung Suhr,1,1,Kansas City Chiefs,1,Manual,2023-09-05 10:46:01,0
+Sung Suhr,1,2,Washington Commanders,9,Manual,2023-09-05 10:46:01,0
+Sung Suhr,1,3,Atlanta Falcons,13,Manual,2023-09-05 10:46:01,0
+Sung Suhr,1,4,Cincinnati Bengals,5,Manual,2023-09-05 10:46:01,0
+Sung Suhr,1,5,Baltimore Ravens,2,Manual,2023-09-05 10:46:01,0
+Sung Suhr,1,6,Jacksonville Jaguars,11,Manual,2023-09-05 10:46:01,0
+Sung Suhr,1,7,San Francisco 49ers,4,Manual,2023-09-05 10:46:01,0
+Sung Suhr,1,8,Minnesota Vikings,6,Manual,2023-09-05 10:46:01,0
+Sung Suhr,1,9,New Orleans Saints,10,Manual,2023-09-05 10:46:01,0
+Sung Suhr,1,10,Chicago Bears,8,Manual,2023-09-05 10:46:01,0
+Sung Suhr,1,11,Denver Broncos,3,Manual,2023-09-05 10:46:01,0
+Sung Suhr,1,12,Seattle Seahawks,15,Manual,2023-09-05 10:46:01,0
+Sung Suhr,1,13,Los Angeles Chargers,14,Manual,2023-09-05 10:46:01,0
+Sung Suhr,1,14,Philadelphia Eagles,7,Manual,2023-09-05 10:46:01,0
+Sung Suhr,1,15,New York Giants,16,Manual,2023-09-05 10:46:01,0
+Sung Suhr,1,16,Buffalo Bills,12,Manual,2023-09-05 10:46:01,0
+Trevor Windsor,1,1,Kansas City Chiefs,14,Manual,2023-09-05 10:51:24,0
+Trevor Windsor,1,2,Washington Commanders,15,Manual,2023-09-05 10:51:24,0
+Trevor Windsor,1,3,Atlanta Falcons,10,Manual,2023-09-05 10:51:24,0
+Trevor Windsor,1,4,Cincinnati Bengals,4,Manual,2023-09-05 10:51:24,0
+Trevor Windsor,1,5,Baltimore Ravens,16,Manual,2023-09-05 10:51:24,0
+Trevor Windsor,1,6,Jacksonville Jaguars,12,Manual,2023-09-05 10:51:24,0
+Trevor Windsor,1,7,San Francisco 49ers,3,Manual,2023-09-05 10:51:24,0
+Trevor Windsor,1,8,Minnesota Vikings,13,Manual,2023-09-05 10:51:24,0
+Trevor Windsor,1,9,New Orleans Saints,5,Manual,2023-09-05 10:51:24,0
+Trevor Windsor,1,10,Chicago Bears,1,Manual,2023-09-05 10:51:24,0
+Trevor Windsor,1,11,Denver Broncos,9,Manual,2023-09-05 10:51:24,0
+Trevor Windsor,1,12,Seattle Seahawks,11,Manual,2023-09-05 10:51:24,0
+Trevor Windsor,1,13,Los Angeles Chargers,6,Manual,2023-09-05 10:51:24,0
+Trevor Windsor,1,14,Philadelphia Eagles,8,Manual,2023-09-05 10:51:24,0
+Trevor Windsor,1,15,Dallas Cowboys,7,Manual,2023-09-05 10:51:24,0
+Trevor Windsor,1,16,Buffalo Bills,2,Manual,2023-09-05 10:51:24,0
+Kate Christensen,1,1,Detroit Lions,15,Manual,2023-09-05 10:51:56,0
+Kate Christensen,1,2,Washington Commanders,13,Manual,2023-09-05 10:51:56,0
+Kate Christensen,1,3,Carolina Panthers,4,Manual,2023-09-05 10:51:56,0
+Kate Christensen,1,4,Cincinnati Bengals,5,Manual,2023-09-05 10:51:56,0
+Kate Christensen,1,5,Houston Texans,14,Manual,2023-09-05 10:51:56,0
+Kate Christensen,1,6,Jacksonville Jaguars,6,Manual,2023-09-05 10:51:56,0
+Kate Christensen,1,7,San Francisco 49ers,8,Manual,2023-09-05 10:51:56,0
+Kate Christensen,1,8,Minnesota Vikings,9,Manual,2023-09-05 10:51:56,0
+Kate Christensen,1,9,New Orleans Saints,7,Manual,2023-09-05 10:51:56,0
+Kate Christensen,1,10,Green Bay Packers,3,Manual,2023-09-05 10:51:56,0
+Kate Christensen,1,11,Las Vegas Raiders,2,Manual,2023-09-05 10:51:56,0
+Kate Christensen,1,12,Seattle Seahawks,11,Manual,2023-09-05 10:51:56,0
+Kate Christensen,1,13,Los Angeles Chargers,1,Manual,2023-09-05 10:51:56,0
+Kate Christensen,1,14,Philadelphia Eagles,16,Manual,2023-09-05 10:51:56,0
+Kate Christensen,1,15,Dallas Cowboys,12,Manual,2023-09-05 10:51:56,0
+Kate Christensen,1,16,Buffalo Bills,10,Manual,2023-09-05 10:51:56,0
+Drew Danner,1,1,Kansas City Chiefs,15,Manual,2023-09-05 11:08:56,0
+Drew Danner,1,2,Washington Commanders,11,Manual,2023-09-05 11:08:56,0
+Drew Danner,1,3,Atlanta Falcons,8,Manual,2023-09-05 11:08:56,0
+Drew Danner,1,4,Cincinnati Bengals,10,Manual,2023-09-05 11:08:56,0
+Drew Danner,1,5,Baltimore Ravens,16,Manual,2023-09-05 11:08:56,0
+Drew Danner,1,6,Jacksonville Jaguars,9,Manual,2023-09-05 11:08:56,0
+Drew Danner,1,7,San Francisco 49ers,1,Manual,2023-09-05 11:08:56,0
+Drew Danner,1,8,Minnesota Vikings,14,Manual,2023-09-05 11:08:56,0
+Drew Danner,1,9,New Orleans Saints,5,Manual,2023-09-05 11:08:56,0
+Drew Danner,1,10,Chicago Bears,3,Manual,2023-09-05 11:08:56,0
+Drew Danner,1,11,Denver Broncos,12,Manual,2023-09-05 11:08:56,0
+Drew Danner,1,12,Seattle Seahawks,13,Manual,2023-09-05 11:08:56,0
+Drew Danner,1,13,Los Angeles Chargers,4,Manual,2023-09-05 11:08:56,0
+Drew Danner,1,14,New England Patriots,2,Manual,2023-09-05 11:08:56,0
+Drew Danner,1,15,Dallas Cowboys,6,Manual,2023-09-05 11:08:56,0
+Drew Danner,1,16,Buffalo Bills,7,Manual,2023-09-05 11:08:56,0
+Austin Turner,1,1,Kansas City Chiefs,12,Manual,2023-09-05 11:09:06,0
+Austin Turner,1,2,Washington Commanders,14,Manual,2023-09-05 11:09:06,0
+Austin Turner,1,3,Atlanta Falcons,10,Manual,2023-09-05 11:09:06,0
+Austin Turner,1,4,Cleveland Browns,1,Manual,2023-09-05 11:09:06,0
+Austin Turner,1,5,Baltimore Ravens,16,Manual,2023-09-05 11:09:06,0
+Austin Turner,1,6,Jacksonville Jaguars,15,Manual,2023-09-05 11:09:06,0
+Austin Turner,1,7,San Francisco 49ers,7,Manual,2023-09-05 11:09:06,0
+Austin Turner,1,8,Minnesota Vikings,11,Manual,2023-09-05 11:09:06,0
+Austin Turner,1,9,Tennessee Titans,2,Manual,2023-09-05 11:09:06,0
+Austin Turner,1,10,Chicago Bears,3,Manual,2023-09-05 11:09:06,0
+Austin Turner,1,11,Denver Broncos,8,Manual,2023-09-05 11:09:06,0
+Austin Turner,1,12,Seattle Seahawks,9,Manual,2023-09-05 11:09:06,0
+Austin Turner,1,13,Miami Dolphins,5,Manual,2023-09-05 11:09:06,0
+Austin Turner,1,14,Philadelphia Eagles,13,Manual,2023-09-05 11:09:06,0
+Austin Turner,1,15,Dallas Cowboys,6,Manual,2023-09-05 11:09:06,0
+Austin Turner,1,16,Buffalo Bills,4,Manual,2023-09-05 11:09:06,0
+Shin Umehara,1,1,Kansas City Chiefs,7,Manual,2023-09-05 11:12:00,0
+Shin Umehara,1,2,Arizona Cardinals,5,Manual,2023-09-05 11:12:00,0
+Shin Umehara,1,3,Atlanta Falcons,13,Manual,2023-09-05 11:12:00,0
+Shin Umehara,1,4,Cincinnati Bengals,12,Manual,2023-09-05 11:12:00,0
+Shin Umehara,1,5,Houston Texans,11,Manual,2023-09-05 11:12:00,0
+Shin Umehara,1,6,Indianapolis Colts,3,Manual,2023-09-05 11:12:00,0
+Shin Umehara,1,7,San Francisco 49ers,6,Manual,2023-09-05 11:12:00,0
+Shin Umehara,1,8,Minnesota Vikings,15,Manual,2023-09-05 11:12:00,0
+Shin Umehara,1,9,New Orleans Saints,1,Manual,2023-09-05 11:12:00,0
+Shin Umehara,1,10,Green Bay Packers,9,Manual,2023-09-05 11:12:00,0
+Shin Umehara,1,11,Las Vegas Raiders,14,Manual,2023-09-05 11:12:00,0
+Shin Umehara,1,12,Seattle Seahawks,16,Manual,2023-09-05 11:12:00,0
+Shin Umehara,1,13,Los Angeles Chargers,4,Manual,2023-09-05 11:12:00,0
+Shin Umehara,1,14,Philadelphia Eagles,8,Manual,2023-09-05 11:12:00,0
+Shin Umehara,1,15,Dallas Cowboys,2,Manual,2023-09-05 11:12:00,0
+Shin Umehara,1,16,Buffalo Bills,10,Manual,2023-09-05 11:12:00,0
+Jacob Anderson,1,1,Kansas City Chiefs,15,Manual,2023-09-05 11:41:11,0
+Jacob Anderson,1,2,Washington Commanders,10,Manual,2023-09-05 11:41:11,0
+Jacob Anderson,1,3,Atlanta Falcons,6,Manual,2023-09-05 11:41:11,0
+Jacob Anderson,1,4,Cincinnati Bengals,5,Manual,2023-09-05 11:41:11,0
+Jacob Anderson,1,5,Baltimore Ravens,16,Manual,2023-09-05 11:41:11,0
+Jacob Anderson,1,6,Jacksonville Jaguars,13,Manual,2023-09-05 11:41:11,0
+Jacob Anderson,1,7,Pittsburgh Steelers,2,Manual,2023-09-05 11:41:11,0
+Jacob Anderson,1,8,Minnesota Vikings,14,Manual,2023-09-05 11:41:11,0
+Jacob Anderson,1,9,New Orleans Saints,8,Manual,2023-09-05 11:41:11,0
+Jacob Anderson,1,10,Chicago Bears,3,Manual,2023-09-05 11:41:11,0
+Jacob Anderson,1,11,Las Vegas Raiders,1,Manual,2023-09-05 11:41:11,0
+Jacob Anderson,1,12,Seattle Seahawks,12,Manual,2023-09-05 11:41:11,0
+Jacob Anderson,1,13,Los Angeles Chargers,7,Manual,2023-09-05 11:41:11,0
+Jacob Anderson,1,14,Philadelphia Eagles,11,Manual,2023-09-05 11:41:11,0
+Jacob Anderson,1,15,Dallas Cowboys,9,Manual,2023-09-05 11:41:11,0
+Jacob Anderson,1,16,Buffalo Bills,4,Manual,2023-09-05 11:41:11,0
+Adam Hansen,1,1,Kansas City Chiefs,12,Manual,2023-09-05 11:41:29,0
+Adam Hansen,1,2,Washington Commanders,5,Manual,2023-09-05 11:41:29,0
+Adam Hansen,1,3,Atlanta Falcons,2,Manual,2023-09-05 11:41:29,0
+Adam Hansen,1,4,Cincinnati Bengals,9,Manual,2023-09-05 11:41:29,0
+Adam Hansen,1,5,Baltimore Ravens,16,Manual,2023-09-05 11:41:29,0
+Adam Hansen,1,6,Jacksonville Jaguars,14,Manual,2023-09-05 11:41:29,0
+Adam Hansen,1,7,San Francisco 49ers,7,Manual,2023-09-05 11:41:29,0
+Adam Hansen,1,8,Minnesota Vikings,10,Manual,2023-09-05 11:41:29,0
+Adam Hansen,1,9,Tennessee Titans,15,Manual,2023-09-05 11:41:29,0
+Adam Hansen,1,10,Green Bay Packers,4,Manual,2023-09-05 11:41:29,0
+Adam Hansen,1,11,Las Vegas Raiders,6,Manual,2023-09-05 11:41:29,0
+Adam Hansen,1,12,Los Angeles Rams,3,Manual,2023-09-05 11:41:29,0
+Adam Hansen,1,13,Miami Dolphins,8,Manual,2023-09-05 11:41:29,0
+Adam Hansen,1,14,Philadelphia Eagles,13,Manual,2023-09-05 11:41:29,0
+Adam Hansen,1,15,Dallas Cowboys,11,Manual,2023-09-05 11:41:29,0
+Adam Hansen,1,16,New York Jets,1,Manual,2023-09-05 11:41:29,0
+Adam Hansen,1,1,Kansas City Chiefs,12,Manual,2023-09-05 11:44:34,0
+Adam Hansen,1,2,Washington Commanders,5,Manual,2023-09-05 11:44:34,0
+Adam Hansen,1,3,Atlanta Falcons,2,Manual,2023-09-05 11:44:34,0
+Adam Hansen,1,4,Cincinnati Bengals,9,Manual,2023-09-05 11:44:34,0
+Adam Hansen,1,5,Baltimore Ravens,16,Manual,2023-09-05 11:44:34,0
+Adam Hansen,1,6,Jacksonville Jaguars,14,Manual,2023-09-05 11:44:34,0
+Adam Hansen,1,7,San Francisco 49ers,7,Manual,2023-09-05 11:44:34,0
+Adam Hansen,1,8,Minnesota Vikings,10,Manual,2023-09-05 11:44:34,0
+Adam Hansen,1,9,Tennessee Titans,15,Manual,2023-09-05 11:44:34,0
+Adam Hansen,1,10,Green Bay Packers,4,Manual,2023-09-05 11:44:34,0
+Adam Hansen,1,11,Las Vegas Raiders,8,Manual,2023-09-05 11:44:34,0
+Adam Hansen,1,12,Los Angeles Rams,3,Manual,2023-09-05 11:44:34,0
+Adam Hansen,1,13,Miami Dolphins,6,Manual,2023-09-05 11:44:34,0
+Adam Hansen,1,14,Philadelphia Eagles,13,Manual,2023-09-05 11:44:34,0
+Adam Hansen,1,15,Dallas Cowboys,11,Manual,2023-09-05 11:44:34,0
+Adam Hansen,1,16,New York Jets,1,Manual,2023-09-05 11:44:34,0
+Adam Hansen,1,1,Kansas City Chiefs,12,Manual,2023-09-05 11:51:58,0
+Adam Hansen,1,2,Washington Commanders,5,Manual,2023-09-05 11:51:58,0
+Adam Hansen,1,3,Atlanta Falcons,3,Manual,2023-09-05 11:51:58,0
+Adam Hansen,1,4,Cincinnati Bengals,9,Manual,2023-09-05 11:51:58,0
+Adam Hansen,1,5,Baltimore Ravens,16,Manual,2023-09-05 11:51:58,0
+Adam Hansen,1,6,Jacksonville Jaguars,14,Manual,2023-09-05 11:51:58,0
+Adam Hansen,1,7,San Francisco 49ers,7,Manual,2023-09-05 11:51:58,0
+Adam Hansen,1,8,Minnesota Vikings,10,Manual,2023-09-05 11:51:58,0
+Adam Hansen,1,9,Tennessee Titans,15,Manual,2023-09-05 11:51:58,0
+Adam Hansen,1,10,Green Bay Packers,4,Manual,2023-09-05 11:51:58,0
+Adam Hansen,1,11,Las Vegas Raiders,8,Manual,2023-09-05 11:51:58,0
+Adam Hansen,1,12,Seattle Seahawks,1,Manual,2023-09-05 11:51:58,0
+Adam Hansen,1,13,Miami Dolphins,6,Manual,2023-09-05 11:51:58,0
+Adam Hansen,1,14,Philadelphia Eagles,13,Manual,2023-09-05 11:51:58,0
+Adam Hansen,1,15,Dallas Cowboys,11,Manual,2023-09-05 11:51:58,0
+Adam Hansen,1,16,New York Jets,2,Manual,2023-09-05 11:51:58,0
+Ashley Forte,1,1,Kansas City Chiefs,12,Manual,2023-09-05 11:59:36,0
+Ashley Forte,1,2,Washington Commanders,14,Manual,2023-09-05 11:59:36,0
+Ashley Forte,1,3,Atlanta Falcons,16,Manual,2023-09-05 11:59:36,0
+Ashley Forte,1,4,Cincinnati Bengals,11,Manual,2023-09-05 11:59:36,0
+Ashley Forte,1,5,Baltimore Ravens,9,Manual,2023-09-05 11:59:36,0
+Ashley Forte,1,6,Jacksonville Jaguars,15,Manual,2023-09-05 11:59:36,0
+Ashley Forte,1,7,Pittsburgh Steelers,1,Manual,2023-09-05 11:59:36,0
+Ashley Forte,1,8,Minnesota Vikings,10,Manual,2023-09-05 11:59:36,0
+Ashley Forte,1,9,Tennessee Titans,3,Manual,2023-09-05 11:59:36,0
+Ashley Forte,1,10,Green Bay Packers,2,Manual,2023-09-05 11:59:36,0
+Ashley Forte,1,11,Denver Broncos,6,Manual,2023-09-05 11:59:36,0
+Ashley Forte,1,12,Seattle Seahawks,13,Manual,2023-09-05 11:59:36,0
+Ashley Forte,1,13,Miami Dolphins,7,Manual,2023-09-05 11:59:36,0
+Ashley Forte,1,14,Philadelphia Eagles,8,Manual,2023-09-05 11:59:36,0
+Ashley Forte,1,15,New York Giants,5,Manual,2023-09-05 11:59:36,0
+Ashley Forte,1,16,New York Jets,4,Manual,2023-09-05 11:59:36,0
+Nick Hannifin,1,1,Detroit Lions,9,Manual,2023-09-05 12:02:04,0
+Nick Hannifin,1,2,Washington Commanders,16,Manual,2023-09-05 12:02:04,0
+Nick Hannifin,1,3,Atlanta Falcons,8,Manual,2023-09-05 12:02:04,0
+Nick Hannifin,1,4,Cincinnati Bengals,5,Manual,2023-09-05 12:02:04,0
+Nick Hannifin,1,5,Baltimore Ravens,14,Manual,2023-09-05 12:02:04,0
+Nick Hannifin,1,6,Jacksonville Jaguars,12,Manual,2023-09-05 12:02:04,0
+Nick Hannifin,1,7,San Francisco 49ers,11,Manual,2023-09-05 12:02:04,0
+Nick Hannifin,1,8,Minnesota Vikings,7,Manual,2023-09-05 12:02:04,0
+Nick Hannifin,1,9,New Orleans Saints,6,Manual,2023-09-05 12:02:04,0
+Nick Hannifin,1,10,Green Bay Packers,3,Manual,2023-09-05 12:02:04,0
+Nick Hannifin,1,11,Denver Broncos,13,Manual,2023-09-05 12:02:04,0
+Nick Hannifin,1,12,Seattle Seahawks,15,Manual,2023-09-05 12:02:04,0
+Nick Hannifin,1,13,Miami Dolphins,4,Manual,2023-09-05 12:02:04,0
+Nick Hannifin,1,14,Philadelphia Eagles,10,Manual,2023-09-05 12:02:04,0
+Nick Hannifin,1,15,Dallas Cowboys,2,Manual,2023-09-05 12:02:04,0
+Nick Hannifin,1,16,Buffalo Bills,1,Manual,2023-09-05 12:02:04,0
+Jacob Wydick,1,1,Detroit Lions,1,Manual,2023-09-05 12:11:47,0
+Jacob Wydick,1,2,Washington Commanders,15,Manual,2023-09-05 12:11:47,0
+Jacob Wydick,1,3,Atlanta Falcons,5,Manual,2023-09-05 12:11:47,0
+Jacob Wydick,1,4,Cincinnati Bengals,12,Manual,2023-09-05 12:11:47,0
+Jacob Wydick,1,5,Baltimore Ravens,14,Manual,2023-09-05 12:11:47,0
+Jacob Wydick,1,6,Jacksonville Jaguars,10,Manual,2023-09-05 12:11:47,0
+Jacob Wydick,1,7,Pittsburgh Steelers,3,Manual,2023-09-05 12:11:47,0
+Jacob Wydick,1,8,Minnesota Vikings,16,Manual,2023-09-05 12:11:47,0
+Jacob Wydick,1,9,Tennessee Titans,11,Manual,2023-09-05 12:11:47,0
+Jacob Wydick,1,10,Green Bay Packers,4,Manual,2023-09-05 12:11:47,0
+Jacob Wydick,1,11,Denver Broncos,9,Manual,2023-09-05 12:11:47,0
+Jacob Wydick,1,12,Seattle Seahawks,13,Manual,2023-09-05 12:11:47,0
+Jacob Wydick,1,13,Los Angeles Chargers,8,Manual,2023-09-05 12:11:47,0
+Jacob Wydick,1,14,Philadelphia Eagles,6,Manual,2023-09-05 12:11:47,0
+Jacob Wydick,1,15,New York Giants,7,Manual,2023-09-05 12:11:47,0
+Jacob Wydick,1,16,New York Jets,2,Manual,2023-09-05 12:11:47,0
+Misha Egorov,1,1,Kansas City Chiefs,13,Manual,2023-09-05 14:27:04,0
+Misha Egorov,1,2,Washington Commanders,15,Manual,2023-09-05 14:27:04,0
+Misha Egorov,1,3,Atlanta Falcons,10,Manual,2023-09-05 14:27:04,0
+Misha Egorov,1,4,Cincinnati Bengals,5,Manual,2023-09-05 14:27:04,0
+Misha Egorov,1,5,Baltimore Ravens,16,Manual,2023-09-05 14:27:04,0
+Misha Egorov,1,6,Jacksonville Jaguars,11,Manual,2023-09-05 14:27:04,0
+Misha Egorov,1,7,San Francisco 49ers,2,Manual,2023-09-05 14:27:04,0
+Misha Egorov,1,8,Minnesota Vikings,14,Manual,2023-09-05 14:27:04,0
+Misha Egorov,1,9,New Orleans Saints,8,Manual,2023-09-05 14:27:04,0
+Misha Egorov,1,10,Chicago Bears,1,Manual,2023-09-05 14:27:04,0
+Misha Egorov,1,11,Denver Broncos,9,Manual,2023-09-05 14:27:04,0
+Misha Egorov,1,12,Seattle Seahawks,12,Manual,2023-09-05 14:27:04,0
+Misha Egorov,1,13,Los Angeles Chargers,6,Manual,2023-09-05 14:27:04,0
+Misha Egorov,1,14,Philadelphia Eagles,7,Manual,2023-09-05 14:27:04,0
+Misha Egorov,1,15,Dallas Cowboys,4,Manual,2023-09-05 14:27:04,0
+Misha Egorov,1,16,Buffalo Bills,3,Manual,2023-09-05 14:27:04,0
+Kevin Rabin,1,1,Kansas City Chiefs,14,Manual,2023-09-05 14:34:17,0
+Kevin Rabin,1,2,Washington Commanders,15,Manual,2023-09-05 14:34:17,0
+Kevin Rabin,1,3,Atlanta Falcons,11,Manual,2023-09-05 14:34:17,0
+Kevin Rabin,1,4,Cleveland Browns,4,Manual,2023-09-05 14:34:17,0
+Kevin Rabin,1,5,Baltimore Ravens,16,Manual,2023-09-05 14:34:17,0
+Kevin Rabin,1,6,Jacksonville Jaguars,5,Manual,2023-09-05 14:34:17,0
+Kevin Rabin,1,7,Pittsburgh Steelers,3,Manual,2023-09-05 14:34:17,0
+Kevin Rabin,1,8,Minnesota Vikings,12,Manual,2023-09-05 14:34:17,0
+Kevin Rabin,1,9,New Orleans Saints,6,Manual,2023-09-05 14:34:17,0
+Kevin Rabin,1,10,Chicago Bears,1,Manual,2023-09-05 14:34:17,0
+Kevin Rabin,1,11,Denver Broncos,9,Manual,2023-09-05 14:34:17,0
+Kevin Rabin,1,12,Seattle Seahawks,13,Manual,2023-09-05 14:34:17,0
+Kevin Rabin,1,13,Los Angeles Chargers,8,Manual,2023-09-05 14:34:17,0
+Kevin Rabin,1,14,New England Patriots,10,Manual,2023-09-05 14:34:17,0
+Kevin Rabin,1,15,New York Giants,7,Manual,2023-09-05 14:34:17,0
+Kevin Rabin,1,16,Buffalo Bills,2,Manual,2023-09-05 14:34:17,0
+Brian Stroh,1,1,Kansas City Chiefs,16,Manual,2023-09-05 14:39:44,0
+Brian Stroh,1,2,Washington Commanders,13,Manual,2023-09-05 14:39:44,0
+Brian Stroh,1,3,Carolina Panthers,1,Manual,2023-09-05 14:39:44,0
+Brian Stroh,1,4,Cincinnati Bengals,11,Manual,2023-09-05 14:39:44,0
+Brian Stroh,1,5,Baltimore Ravens,15,Manual,2023-09-05 14:39:44,0
+Brian Stroh,1,6,Jacksonville Jaguars,12,Manual,2023-09-05 14:39:44,0
+Brian Stroh,1,7,San Francisco 49ers,7,Manual,2023-09-05 14:39:44,0
+Brian Stroh,1,8,Minnesota Vikings,14,Manual,2023-09-05 14:39:44,0
+Brian Stroh,1,9,Tennessee Titans,4,Manual,2023-09-05 14:39:44,0
+Brian Stroh,1,10,Green Bay Packers,5,Manual,2023-09-05 14:39:44,0
+Brian Stroh,1,11,Las Vegas Raiders,2,Manual,2023-09-05 14:39:44,0
+Brian Stroh,1,12,Seattle Seahawks,10,Manual,2023-09-05 14:39:44,0
+Brian Stroh,1,13,Los Angeles Chargers,8,Manual,2023-09-05 14:39:44,0
+Brian Stroh,1,14,Philadelphia Eagles,6,Manual,2023-09-05 14:39:44,0
+Brian Stroh,1,15,Dallas Cowboys,3,Manual,2023-09-05 14:39:44,0
+Brian Stroh,1,16,Buffalo Bills,9,Manual,2023-09-05 14:39:44,0
+Tung Tran,1,1,Kansas City Chiefs,16,Manual,2023-09-05 14:40:42,0
+Tung Tran,1,2,Washington Commanders,12,Manual,2023-09-05 14:40:42,0
+Tung Tran,1,3,Atlanta Falcons,8,Manual,2023-09-05 14:40:42,0
+Tung Tran,1,4,Cincinnati Bengals,11,Manual,2023-09-05 14:40:42,0
+Tung Tran,1,5,Baltimore Ravens,15,Manual,2023-09-05 14:40:42,0
+Tung Tran,1,6,Jacksonville Jaguars,10,Manual,2023-09-05 14:40:42,0
+Tung Tran,1,7,San Francisco 49ers,9,Manual,2023-09-05 14:40:42,0
+Tung Tran,1,8,Minnesota Vikings,14,Manual,2023-09-05 14:40:42,0
+Tung Tran,1,9,Tennessee Titans,7,Manual,2023-09-05 14:40:42,0
+Tung Tran,1,10,Chicago Bears,6,Manual,2023-09-05 14:40:42,0
+Tung Tran,1,11,Denver Broncos,4,Manual,2023-09-05 14:40:42,0
+Tung Tran,1,12,Seattle Seahawks,5,Manual,2023-09-05 14:40:42,0
+Tung Tran,1,13,Miami Dolphins,2,Manual,2023-09-05 14:40:42,0
+Tung Tran,1,14,Philadelphia Eagles,3,Manual,2023-09-05 14:40:42,0
+Tung Tran,1,15,Dallas Cowboys,13,Manual,2023-09-05 14:40:42,0
+Tung Tran,1,16,Buffalo Bills,1,Manual,2023-09-05 14:40:42,0
+Jennifer Gosney,1,1,Kansas City Chiefs,9,Manual,2023-09-05 14:43:59,0
+Jennifer Gosney,1,2,Washington Commanders,8,Manual,2023-09-05 14:43:59,0
+Jennifer Gosney,1,3,Carolina Panthers,13,Manual,2023-09-05 14:43:59,0
+Jennifer Gosney,1,4,Cincinnati Bengals,15,Manual,2023-09-05 14:43:59,0
+Jennifer Gosney,1,5,Baltimore Ravens,16,Manual,2023-09-05 14:43:59,0
+Jennifer Gosney,1,6,Jacksonville Jaguars,11,Manual,2023-09-05 14:43:59,0
+Jennifer Gosney,1,7,San Francisco 49ers,4,Manual,2023-09-05 14:43:59,0
+Jennifer Gosney,1,8,Tampa Bay Buccaneers,12,Manual,2023-09-05 14:43:59,0
+Jennifer Gosney,1,9,New Orleans Saints,1,Manual,2023-09-05 14:43:59,0
+Jennifer Gosney,1,10,Chicago Bears,7,Manual,2023-09-05 14:43:59,0
+Jennifer Gosney,1,11,Denver Broncos,10,Manual,2023-09-05 14:43:59,0
+Jennifer Gosney,1,12,Seattle Seahawks,14,Manual,2023-09-05 14:43:59,0
+Jennifer Gosney,1,13,Miami Dolphins,5,Manual,2023-09-05 14:43:59,0
+Jennifer Gosney,1,14,Philadelphia Eagles,3,Manual,2023-09-05 14:43:59,0
+Jennifer Gosney,1,15,Dallas Cowboys,6,Manual,2023-09-05 14:43:59,0
+Jennifer Gosney,1,16,New York Jets,2,Manual,2023-09-05 14:43:59,0
+Joseph Eason,1,1,Kansas City Chiefs,11,Manual,2023-09-05 15:44:07,0
+Joseph Eason,1,2,Washington Commanders,15,Manual,2023-09-05 15:44:07,0
+Joseph Eason,1,3,Atlanta Falcons,1,Manual,2023-09-05 15:44:07,0
+Joseph Eason,1,4,Cincinnati Bengals,7,Manual,2023-09-05 15:44:07,0
+Joseph Eason,1,5,Baltimore Ravens,16,Manual,2023-09-05 15:44:07,0
+Joseph Eason,1,6,Jacksonville Jaguars,5,Manual,2023-09-05 15:44:07,0
+Joseph Eason,1,7,San Francisco 49ers,10,Manual,2023-09-05 15:44:07,0
+Joseph Eason,1,8,Minnesota Vikings,13,Manual,2023-09-05 15:44:07,0
+Joseph Eason,1,9,Tennessee Titans,4,Manual,2023-09-05 15:44:07,0
+Joseph Eason,1,10,Chicago Bears,8,Manual,2023-09-05 15:44:07,0
+Joseph Eason,1,11,Denver Broncos,2,Manual,2023-09-05 15:44:07,0
+Joseph Eason,1,12,Seattle Seahawks,12,Manual,2023-09-05 15:44:07,0
+Joseph Eason,1,13,Miami Dolphins,6,Manual,2023-09-05 15:44:07,0
+Joseph Eason,1,14,Philadelphia Eagles,14,Manual,2023-09-05 15:44:07,0
+Joseph Eason,1,15,Dallas Cowboys,9,Manual,2023-09-05 15:44:07,0
+Joseph Eason,1,16,New York Jets,3,Manual,2023-09-05 15:44:07,0
+Michael Polonsky,1,1,Kansas City Chiefs,10,Manual,2023-09-05 19:49:32,0
+Michael Polonsky,1,2,Washington Commanders,2,Manual,2023-09-05 19:49:32,0
+Michael Polonsky,1,3,Atlanta Falcons,1,Manual,2023-09-05 19:49:32,0
+Michael Polonsky,1,4,Cincinnati Bengals,9,Manual,2023-09-05 19:49:32,0
+Michael Polonsky,1,5,Baltimore Ravens,15,Manual,2023-09-05 19:49:32,0
+Michael Polonsky,1,6,Jacksonville Jaguars,8,Manual,2023-09-05 19:49:32,0
+Michael Polonsky,1,7,Pittsburgh Steelers,7,Manual,2023-09-05 19:49:32,0
+Michael Polonsky,1,8,Minnesota Vikings,12,Manual,2023-09-05 19:49:32,0
+Michael Polonsky,1,9,New Orleans Saints,13,Manual,2023-09-05 19:49:32,0
+Michael Polonsky,1,10,Green Bay Packers,16,Manual,2023-09-05 19:49:32,0
+Michael Polonsky,1,11,Las Vegas Raiders,11,Manual,2023-09-05 19:49:32,0
+Michael Polonsky,1,12,Seattle Seahawks,14,Manual,2023-09-05 19:49:32,0
+Michael Polonsky,1,13,Miami Dolphins,6,Manual,2023-09-05 19:49:32,0
+Michael Polonsky,1,14,Philadelphia Eagles,3,Manual,2023-09-05 19:49:32,0
+Michael Polonsky,1,15,Dallas Cowboys,4,Manual,2023-09-05 19:49:32,0
+Michael Polonsky,1,16,Buffalo Bills,5,Manual,2023-09-05 19:49:32,0
+Brad Laplante,1,1,Detroit Lions,6,Manual,2023-09-06 07:40:01,0
+Brad Laplante,1,2,Arizona Cardinals,2,Manual,2023-09-06 07:40:01,0
+Brad Laplante,1,3,Carolina Panthers,8,Manual,2023-09-06 07:40:01,0
+Brad Laplante,1,4,Cleveland Browns,13,Manual,2023-09-06 07:40:01,0
+Brad Laplante,1,5,Houston Texans,1,Manual,2023-09-06 07:40:01,0
+Brad Laplante,1,6,Indianapolis Colts,5,Manual,2023-09-06 07:40:01,0
+Brad Laplante,1,7,Pittsburgh Steelers,15,Manual,2023-09-06 07:40:01,0
+Brad Laplante,1,8,Tampa Bay Buccaneers,3,Manual,2023-09-06 07:40:01,0
+Brad Laplante,1,9,Tennessee Titans,11,Manual,2023-09-06 07:40:01,0
+Brad Laplante,1,10,Green Bay Packers,16,Manual,2023-09-06 07:40:01,0
+Brad Laplante,1,11,Las Vegas Raiders,9,Manual,2023-09-06 07:40:01,0
+Brad Laplante,1,12,Los Angeles Rams,4,Manual,2023-09-06 07:40:01,0
+Brad Laplante,1,13,Miami Dolphins,12,Manual,2023-09-06 07:40:01,0
+Brad Laplante,1,14,New England Patriots,7,Manual,2023-09-06 07:40:01,0
+Brad Laplante,1,15,New York Giants,10,Manual,2023-09-06 07:40:01,0
+Brad Laplante,1,16,New York Jets,14,Manual,2023-09-06 07:40:01,0
+Tim Gihring,1,1,Kansas City Chiefs,16,Manual,2023-09-06 09:25:23,0
+Tim Gihring,1,2,Washington Commanders,1,Manual,2023-09-06 09:25:23,0
+Tim Gihring,1,3,Atlanta Falcons,2,Manual,2023-09-06 09:25:23,0
+Tim Gihring,1,4,Cincinnati Bengals,11,Manual,2023-09-06 09:25:23,0
+Tim Gihring,1,5,Baltimore Ravens,14,Manual,2023-09-06 09:25:23,0
+Tim Gihring,1,6,Indianapolis Colts,10,Manual,2023-09-06 09:25:23,0
+Tim Gihring,1,7,San Francisco 49ers,15,Manual,2023-09-06 09:25:23,0
+Tim Gihring,1,8,Minnesota Vikings,12,Manual,2023-09-06 09:25:23,0
+Tim Gihring,1,9,Tennessee Titans,3,Manual,2023-09-06 09:25:23,0
+Tim Gihring,1,10,Green Bay Packers,4,Manual,2023-09-06 09:25:23,0
+Tim Gihring,1,11,Denver Broncos,5,Manual,2023-09-06 09:25:23,0
+Tim Gihring,1,12,Seattle Seahawks,13,Manual,2023-09-06 09:25:23,0
+Tim Gihring,1,13,Los Angeles Chargers,6,Manual,2023-09-06 09:25:23,0
+Tim Gihring,1,14,Philadelphia Eagles,9,Manual,2023-09-06 09:25:23,0
+Tim Gihring,1,15,New York Giants,7,Manual,2023-09-06 09:25:23,0
+Tim Gihring,1,16,Buffalo Bills,8,Manual,2023-09-06 09:25:23,0
+Nate Carroll,1,1,Kansas City Chiefs,15,Manual,2023-09-06 09:38:01,0
+Nate Carroll,1,2,Washington Commanders,13,Manual,2023-09-06 09:38:01,0
+Nate Carroll,1,3,Atlanta Falcons,10,Manual,2023-09-06 09:38:01,0
+Nate Carroll,1,4,Cincinnati Bengals,2,Manual,2023-09-06 09:38:01,0
+Nate Carroll,1,5,Baltimore Ravens,16,Manual,2023-09-06 09:38:01,0
+Nate Carroll,1,6,Jacksonville Jaguars,7,Manual,2023-09-06 09:38:01,0
+Nate Carroll,1,7,San Francisco 49ers,3,Manual,2023-09-06 09:38:01,0
+Nate Carroll,1,8,Minnesota Vikings,14,Manual,2023-09-06 09:38:01,0
+Nate Carroll,1,9,New Orleans Saints,9,Manual,2023-09-06 09:38:01,0
+Nate Carroll,1,10,Chicago Bears,4,Manual,2023-09-06 09:38:01,0
+Nate Carroll,1,11,Denver Broncos,8,Manual,2023-09-06 09:38:01,0
+Nate Carroll,1,12,Seattle Seahawks,12,Manual,2023-09-06 09:38:01,0
+Nate Carroll,1,13,Los Angeles Chargers,6,Manual,2023-09-06 09:38:01,0
+Nate Carroll,1,14,Philadelphia Eagles,11,Manual,2023-09-06 09:38:01,0
+Nate Carroll,1,15,Dallas Cowboys,5,Manual,2023-09-06 09:38:01,0
+Nate Carroll,1,16,Buffalo Bills,1,Manual,2023-09-06 09:38:01,0
+Keziah Koigi,1,1,Detroit Lions,4,Manual,2023-09-06 10:14:32,0
+Keziah Koigi,1,2,Washington Commanders,7,Manual,2023-09-06 10:14:32,0
+Keziah Koigi,1,3,Carolina Panthers,6,Manual,2023-09-06 10:14:32,0
+Keziah Koigi,1,4,Cincinnati Bengals,11,Manual,2023-09-06 10:14:32,0
+Keziah Koigi,1,5,Baltimore Ravens,13,Manual,2023-09-06 10:14:32,0
+Keziah Koigi,1,6,Jacksonville Jaguars,15,Manual,2023-09-06 10:14:32,0
+Keziah Koigi,1,7,San Francisco 49ers,14,Manual,2023-09-06 10:14:32,0
+Keziah Koigi,1,8,Minnesota Vikings,8,Manual,2023-09-06 10:14:32,0
+Keziah Koigi,1,9,New Orleans Saints,9,Manual,2023-09-06 10:14:32,0
+Keziah Koigi,1,10,Chicago Bears,12,Manual,2023-09-06 10:14:32,0
+Keziah Koigi,1,11,Denver Broncos,10,Manual,2023-09-06 10:14:32,0
+Keziah Koigi,1,12,Los Angeles Rams,3,Manual,2023-09-06 10:14:32,0
+Keziah Koigi,1,13,Miami Dolphins,5,Manual,2023-09-06 10:14:32,0
+Keziah Koigi,1,14,Philadelphia Eagles,16,Manual,2023-09-06 10:14:32,0
+Keziah Koigi,1,15,New York Giants,2,Manual,2023-09-06 10:14:32,0
+Keziah Koigi,1,16,Buffalo Bills,1,Manual,2023-09-06 10:14:32,0
+Austin Turner,1,1,Kansas City Chiefs,12,Manual,2023-09-06 10:20:30,0
+Austin Turner,1,2,Washington Commanders,14,Manual,2023-09-06 10:20:30,0
+Austin Turner,1,3,Atlanta Falcons,10,Manual,2023-09-06 10:20:30,0
+Austin Turner,1,4,Cleveland Browns,1,Manual,2023-09-06 10:20:30,0
+Austin Turner,1,5,Baltimore Ravens,16,Manual,2023-09-06 10:20:30,0
+Austin Turner,1,6,Jacksonville Jaguars,15,Manual,2023-09-06 10:20:30,0
+Austin Turner,1,7,San Francisco 49ers,7,Manual,2023-09-06 10:20:30,0
+Austin Turner,1,8,Minnesota Vikings,11,Manual,2023-09-06 10:20:30,0
+Austin Turner,1,9,Tennessee Titans,2,Manual,2023-09-06 10:20:30,0
+Austin Turner,1,10,Green Bay Packers,3,Manual,2023-09-06 10:20:30,0
+Austin Turner,1,11,Denver Broncos,8,Manual,2023-09-06 10:20:30,0
+Austin Turner,1,12,Seattle Seahawks,9,Manual,2023-09-06 10:20:30,0
+Austin Turner,1,13,Miami Dolphins,5,Manual,2023-09-06 10:20:30,0
+Austin Turner,1,14,Philadelphia Eagles,13,Manual,2023-09-06 10:20:30,0
+Austin Turner,1,15,Dallas Cowboys,6,Manual,2023-09-06 10:20:30,0
+Austin Turner,1,16,Buffalo Bills,4,Manual,2023-09-06 10:20:30,0
+Erika Witt,1,1,Kansas City Chiefs,15,Manual,2023-09-06 12:25:58,0
+Erika Witt,1,2,Washington Commanders,12,Manual,2023-09-06 12:25:58,0
+Erika Witt,1,3,Atlanta Falcons,9,Manual,2023-09-06 12:25:58,0
+Erika Witt,1,4,Cincinnati Bengals,8,Manual,2023-09-06 12:25:58,0
+Erika Witt,1,5,Baltimore Ravens,16,Manual,2023-09-06 12:25:58,0
+Erika Witt,1,6,Jacksonville Jaguars,14,Manual,2023-09-06 12:25:58,0
+Erika Witt,1,7,San Francisco 49ers,4,Manual,2023-09-06 12:25:58,0
+Erika Witt,1,8,Minnesota Vikings,13,Manual,2023-09-06 12:25:58,0
+Erika Witt,1,9,New Orleans Saints,7,Manual,2023-09-06 12:25:58,0
+Erika Witt,1,10,Chicago Bears,1,Manual,2023-09-06 12:25:58,0
+Erika Witt,1,11,Denver Broncos,10,Manual,2023-09-06 12:25:58,0
+Erika Witt,1,12,Seattle Seahawks,11,Manual,2023-09-06 12:25:58,0
+Erika Witt,1,13,Miami Dolphins,3,Manual,2023-09-06 12:25:58,0
+Erika Witt,1,14,Philadelphia Eagles,6,Manual,2023-09-06 12:25:58,0
+Erika Witt,1,15,Dallas Cowboys,5,Manual,2023-09-06 12:25:58,0
+Erika Witt,1,16,Buffalo Bills,2,Manual,2023-09-06 12:25:58,0
+Dylan Hodson,1,1,Kansas City Chiefs,11,Manual,2023-09-06 12:58:35,0
+Dylan Hodson,1,2,Washington Commanders,2,Manual,2023-09-06 12:58:35,0
+Dylan Hodson,1,3,Atlanta Falcons,1,Manual,2023-09-06 12:58:35,0
+Dylan Hodson,1,4,Cincinnati Bengals,14,Manual,2023-09-06 12:58:35,0
+Dylan Hodson,1,5,Baltimore Ravens,13,Manual,2023-09-06 12:58:35,0
+Dylan Hodson,1,6,Jacksonville Jaguars,4,Manual,2023-09-06 12:58:35,0
+Dylan Hodson,1,7,San Francisco 49ers,12,Manual,2023-09-06 12:58:35,0
+Dylan Hodson,1,8,Minnesota Vikings,15,Manual,2023-09-06 12:58:35,0
+Dylan Hodson,1,9,Tennessee Titans,5,Manual,2023-09-06 12:58:35,0
+Dylan Hodson,1,10,Chicago Bears,6,Manual,2023-09-06 12:58:35,0
+Dylan Hodson,1,11,Denver Broncos,7,Manual,2023-09-06 12:58:35,0
+Dylan Hodson,1,12,Seattle Seahawks,8,Manual,2023-09-06 12:58:35,0
+Dylan Hodson,1,13,Los Angeles Chargers,9,Manual,2023-09-06 12:58:35,0
+Dylan Hodson,1,14,Philadelphia Eagles,16,Manual,2023-09-06 12:58:35,0
+Dylan Hodson,1,15,Dallas Cowboys,10,Manual,2023-09-06 12:58:35,0
+Dylan Hodson,1,16,New York Jets,3,Manual,2023-09-06 12:58:35,0
+Steve Truong,1,1,Kansas City Chiefs,16,Manual,2023-09-06 14:30:18,0
+Steve Truong,1,2,Washington Commanders,9,Manual,2023-09-06 14:30:18,0
+Steve Truong,1,3,Carolina Panthers,7,Manual,2023-09-06 14:30:18,0
+Steve Truong,1,4,Cincinnati Bengals,15,Manual,2023-09-06 14:30:18,0
+Steve Truong,1,5,Baltimore Ravens,10,Manual,2023-09-06 14:30:18,0
+Steve Truong,1,6,Jacksonville Jaguars,14,Manual,2023-09-06 14:30:18,0
+Steve Truong,1,7,Pittsburgh Steelers,8,Manual,2023-09-06 14:30:18,0
+Steve Truong,1,8,Tampa Bay Buccaneers,2,Manual,2023-09-06 14:30:18,0
+Steve Truong,1,9,New Orleans Saints,3,Manual,2023-09-06 14:30:18,0
+Steve Truong,1,10,Chicago Bears,1,Manual,2023-09-06 14:30:18,0
+Steve Truong,1,11,Denver Broncos,4,Manual,2023-09-06 14:30:18,0
+Steve Truong,1,12,Seattle Seahawks,6,Manual,2023-09-06 14:30:18,0
+Steve Truong,1,13,Los Angeles Chargers,11,Manual,2023-09-06 14:30:18,0
+Steve Truong,1,14,Philadelphia Eagles,13,Manual,2023-09-06 14:30:18,0
+Steve Truong,1,15,Dallas Cowboys,5,Manual,2023-09-06 14:30:18,0
+Steve Truong,1,16,Buffalo Bills,12,Manual,2023-09-06 14:30:18,0
+Penny Reynolds,1,1,Kansas City Chiefs,8,Manual,2023-09-06 14:38:49,0
+Penny Reynolds,1,2,Washington Commanders,16,Manual,2023-09-06 14:38:49,0
+Penny Reynolds,1,3,Carolina Panthers,4,Manual,2023-09-06 14:38:49,0
+Penny Reynolds,1,4,Cincinnati Bengals,5,Manual,2023-09-06 14:38:49,0
+Penny Reynolds,1,5,Baltimore Ravens,15,Manual,2023-09-06 14:38:49,0
+Penny Reynolds,1,6,Jacksonville Jaguars,14,Manual,2023-09-06 14:38:49,0
+Penny Reynolds,1,7,San Francisco 49ers,2,Manual,2023-09-06 14:38:49,0
+Penny Reynolds,1,8,Minnesota Vikings,13,Manual,2023-09-06 14:38:49,0
+Penny Reynolds,1,9,New Orleans Saints,6,Manual,2023-09-06 14:38:49,0
+Penny Reynolds,1,10,Chicago Bears,7,Manual,2023-09-06 14:38:49,0
+Penny Reynolds,1,11,Denver Broncos,10,Manual,2023-09-06 14:38:49,0
+Penny Reynolds,1,12,Seattle Seahawks,11,Manual,2023-09-06 14:38:49,0
+Penny Reynolds,1,13,Los Angeles Chargers,3,Manual,2023-09-06 14:38:49,0
+Penny Reynolds,1,14,Philadelphia Eagles,12,Manual,2023-09-06 14:38:49,0
+Penny Reynolds,1,15,Dallas Cowboys,9,Manual,2023-09-06 14:38:49,0
+Penny Reynolds,1,16,Buffalo Bills,1,Manual,2023-09-06 14:38:49,0
+Jamal Bodey-Burks,1,1,Kansas City Chiefs,15,Manual,2023-09-06 15:00:19,0
+Jamal Bodey-Burks,1,2,Washington Commanders,10,Manual,2023-09-06 15:00:19,0
+Jamal Bodey-Burks,1,3,Atlanta Falcons,1,Manual,2023-09-06 15:00:19,0
+Jamal Bodey-Burks,1,4,Cincinnati Bengals,12,Manual,2023-09-06 15:00:19,0
+Jamal Bodey-Burks,1,5,Baltimore Ravens,16,Manual,2023-09-06 15:00:19,0
+Jamal Bodey-Burks,1,6,Jacksonville Jaguars,13,Manual,2023-09-06 15:00:19,0
+Jamal Bodey-Burks,1,7,San Francisco 49ers,4,Manual,2023-09-06 15:00:19,0
+Jamal Bodey-Burks,1,8,Minnesota Vikings,5,Manual,2023-09-06 15:00:19,0
+Jamal Bodey-Burks,1,9,New Orleans Saints,6,Manual,2023-09-06 15:00:19,0
+Jamal Bodey-Burks,1,10,Chicago Bears,2,Manual,2023-09-06 15:00:19,0
+Jamal Bodey-Burks,1,11,Denver Broncos,7,Manual,2023-09-06 15:00:19,0
+Jamal Bodey-Burks,1,12,Seattle Seahawks,8,Manual,2023-09-06 15:00:19,0
+Jamal Bodey-Burks,1,13,Miami Dolphins,9,Manual,2023-09-06 15:00:19,0
+Jamal Bodey-Burks,1,14,Philadelphia Eagles,14,Manual,2023-09-06 15:00:19,0
+Jamal Bodey-Burks,1,15,Dallas Cowboys,3,Manual,2023-09-06 15:00:19,0
+Jamal Bodey-Burks,1,16,Buffalo Bills,11,Manual,2023-09-06 15:00:19,0
+Nick Kielty,1,1,Kansas City Chiefs,15,Manual,2023-09-06 15:28:06,0
+Nick Kielty,1,2,Washington Commanders,16,Manual,2023-09-06 15:28:06,0
+Nick Kielty,1,3,Atlanta Falcons,9,Manual,2023-09-06 15:28:06,0
+Nick Kielty,1,4,Cincinnati Bengals,8,Manual,2023-09-06 15:28:06,0
+Nick Kielty,1,5,Baltimore Ravens,13,Manual,2023-09-06 15:28:06,0
+Nick Kielty,1,6,Jacksonville Jaguars,14,Manual,2023-09-06 15:28:06,0
+Nick Kielty,1,7,Pittsburgh Steelers,2,Manual,2023-09-06 15:28:06,0
+Nick Kielty,1,8,Minnesota Vikings,3,Manual,2023-09-06 15:28:06,0
+Nick Kielty,1,9,New Orleans Saints,4,Manual,2023-09-06 15:28:06,0
+Nick Kielty,1,10,Green Bay Packers,12,Manual,2023-09-06 15:28:06,0
+Nick Kielty,1,11,Denver Broncos,10,Manual,2023-09-06 15:28:06,0
+Nick Kielty,1,12,Seattle Seahawks,7,Manual,2023-09-06 15:28:06,0
+Nick Kielty,1,13,Miami Dolphins,6,Manual,2023-09-06 15:28:06,0
+Nick Kielty,1,14,Philadelphia Eagles,11,Manual,2023-09-06 15:28:06,0
+Nick Kielty,1,15,Dallas Cowboys,5,Manual,2023-09-06 15:28:06,0
+Nick Kielty,1,16,New York Jets,1,Manual,2023-09-06 15:28:06,0
+Karin Van Vleet,1,1,Kansas City Chiefs,14,Manual,2023-09-06 16:21:56,0
+Karin Van Vleet,1,2,Washington Commanders,6,Manual,2023-09-06 16:21:56,0
+Karin Van Vleet,1,3,Carolina Panthers,1,Manual,2023-09-06 16:21:56,0
+Karin Van Vleet,1,4,Cincinnati Bengals,5,Manual,2023-09-06 16:21:56,0
+Karin Van Vleet,1,5,Baltimore Ravens,16,Manual,2023-09-06 16:21:56,0
+Karin Van Vleet,1,6,Jacksonville Jaguars,8,Manual,2023-09-06 16:21:56,0
+Karin Van Vleet,1,7,San Francisco 49ers,4,Manual,2023-09-06 16:21:56,0
+Karin Van Vleet,1,8,Minnesota Vikings,7,Manual,2023-09-06 16:21:56,0
+Karin Van Vleet,1,9,Tennessee Titans,10,Manual,2023-09-06 16:21:56,0
+Karin Van Vleet,1,10,Chicago Bears,3,Manual,2023-09-06 16:21:56,0
+Karin Van Vleet,1,11,Las Vegas Raiders,11,Manual,2023-09-06 16:21:56,0
+Karin Van Vleet,1,12,Seattle Seahawks,15,Manual,2023-09-06 16:21:56,0
+Karin Van Vleet,1,13,Los Angeles Chargers,2,Manual,2023-09-06 16:21:56,0
+Karin Van Vleet,1,14,Philadelphia Eagles,13,Manual,2023-09-06 16:21:56,0
+Karin Van Vleet,1,15,Dallas Cowboys,9,Manual,2023-09-06 16:21:56,0
+Karin Van Vleet,1,16,Buffalo Bills,12,Manual,2023-09-06 16:21:56,0
+Mark Sinopoli,1,1,Kansas City Chiefs,16,Manual,2023-09-06 17:47:01,0
+Mark Sinopoli,1,2,Washington Commanders,4,Manual,2023-09-06 17:47:01,0
+Mark Sinopoli,1,3,Carolina Panthers,1,Manual,2023-09-06 17:47:01,0
+Mark Sinopoli,1,4,Cincinnati Bengals,15,Manual,2023-09-06 17:47:01,0
+Mark Sinopoli,1,5,Baltimore Ravens,14,Manual,2023-09-06 17:47:01,0
+Mark Sinopoli,1,6,Jacksonville Jaguars,13,Manual,2023-09-06 17:47:01,0
+Mark Sinopoli,1,7,San Francisco 49ers,2,Manual,2023-09-06 17:47:01,0
+Mark Sinopoli,1,8,Minnesota Vikings,12,Manual,2023-09-06 17:47:01,0
+Mark Sinopoli,1,9,New Orleans Saints,7,Manual,2023-09-06 17:47:01,0
+Mark Sinopoli,1,10,Chicago Bears,8,Manual,2023-09-06 17:47:01,0
+Mark Sinopoli,1,11,Denver Broncos,10,Manual,2023-09-06 17:47:01,0
+Mark Sinopoli,1,12,Seattle Seahawks,9,Manual,2023-09-06 17:47:01,0
+Mark Sinopoli,1,13,Los Angeles Chargers,6,Manual,2023-09-06 17:47:01,0
+Mark Sinopoli,1,14,Philadelphia Eagles,11,Manual,2023-09-06 17:47:01,0
+Mark Sinopoli,1,15,Dallas Cowboys,5,Manual,2023-09-06 17:47:01,0
+Mark Sinopoli,1,16,New York Jets,3,Manual,2023-09-06 17:47:01,0
+Ani Belokapov,1,1,Kansas City Chiefs,10,Manual,2023-09-06 17:47:58,0
+Ani Belokapov,1,2,Washington Commanders,6,Manual,2023-09-06 17:47:58,0
+Ani Belokapov,1,3,Atlanta Falcons,4,Manual,2023-09-06 17:47:58,0
+Ani Belokapov,1,4,Cincinnati Bengals,5,Manual,2023-09-06 17:47:58,0
+Ani Belokapov,1,5,Baltimore Ravens,16,Manual,2023-09-06 17:47:58,0
+Ani Belokapov,1,6,Jacksonville Jaguars,15,Manual,2023-09-06 17:47:58,0
+Ani Belokapov,1,7,San Francisco 49ers,7,Manual,2023-09-06 17:47:58,0
+Ani Belokapov,1,8,Minnesota Vikings,14,Manual,2023-09-06 17:47:58,0
+Ani Belokapov,1,9,New Orleans Saints,3,Manual,2023-09-06 17:47:58,0
+Ani Belokapov,1,10,Chicago Bears,2,Manual,2023-09-06 17:47:58,0
+Ani Belokapov,1,11,Denver Broncos,11,Manual,2023-09-06 17:47:58,0
+Ani Belokapov,1,12,Seattle Seahawks,13,Manual,2023-09-06 17:47:58,0
+Ani Belokapov,1,13,Miami Dolphins,1,Manual,2023-09-06 17:47:58,0
+Ani Belokapov,1,14,Philadelphia Eagles,9,Manual,2023-09-06 17:47:58,0
+Ani Belokapov,1,15,Dallas Cowboys,8,Manual,2023-09-06 17:47:58,0
+Ani Belokapov,1,16,Buffalo Bills,12,Manual,2023-09-06 17:47:58,0
+Ken Ong,1,1,Kansas City Chiefs,12,Manual,2023-09-06 20:55:14,0
+Ken Ong,1,2,Washington Commanders,16,Manual,2023-09-06 20:55:14,0
+Ken Ong,1,3,Atlanta Falcons,9,Manual,2023-09-06 20:55:14,0
+Ken Ong,1,4,Cleveland Browns,5,Manual,2023-09-06 20:55:14,0
+Ken Ong,1,5,Baltimore Ravens,14,Manual,2023-09-06 20:55:14,0
+Ken Ong,1,6,Jacksonville Jaguars,15,Manual,2023-09-06 20:55:14,0
+Ken Ong,1,7,Pittsburgh Steelers,4,Manual,2023-09-06 20:55:14,0
+Ken Ong,1,8,Minnesota Vikings,3,Manual,2023-09-06 20:55:14,0
+Ken Ong,1,9,New Orleans Saints,8,Manual,2023-09-06 20:55:14,0
+Ken Ong,1,10,Green Bay Packers,6,Manual,2023-09-06 20:55:14,0
+Ken Ong,1,11,Denver Broncos,1,Manual,2023-09-06 20:55:14,0
+Ken Ong,1,12,Seattle Seahawks,13,Manual,2023-09-06 20:55:14,0
+Ken Ong,1,13,Los Angeles Chargers,2,Manual,2023-09-06 20:55:14,0
+Ken Ong,1,14,Philadelphia Eagles,11,Manual,2023-09-06 20:55:14,0
+Ken Ong,1,15,Dallas Cowboys,10,Manual,2023-09-06 20:55:14,0
+Ken Ong,1,16,Buffalo Bills,7,Manual,2023-09-06 20:55:14,0
+Jillian Jones,1,1,Kansas City Chiefs,16,Manual,2023-09-06 21:28:29,0
+Jillian Jones,1,2,Washington Commanders,1,Manual,2023-09-06 21:28:29,0
+Jillian Jones,1,3,Atlanta Falcons,3,Manual,2023-09-06 21:28:29,0
+Jillian Jones,1,4,Cincinnati Bengals,13,Manual,2023-09-06 21:28:29,0
+Jillian Jones,1,5,Baltimore Ravens,12,Manual,2023-09-06 21:28:29,0
+Jillian Jones,1,6,Jacksonville Jaguars,8,Manual,2023-09-06 21:28:29,0
+Jillian Jones,1,7,San Francisco 49ers,11,Manual,2023-09-06 21:28:29,0
+Jillian Jones,1,8,Minnesota Vikings,10,Manual,2023-09-06 21:28:29,0
+Jillian Jones,1,9,New Orleans Saints,9,Manual,2023-09-06 21:28:29,0
+Jillian Jones,1,10,Green Bay Packers,2,Manual,2023-09-06 21:28:29,0
+Jillian Jones,1,11,Denver Broncos,5,Manual,2023-09-06 21:28:29,0
+Jillian Jones,1,12,Seattle Seahawks,6,Manual,2023-09-06 21:28:29,0
+Jillian Jones,1,13,Miami Dolphins,7,Manual,2023-09-06 21:28:29,0
+Jillian Jones,1,14,Philadelphia Eagles,15,Manual,2023-09-06 21:28:29,0
+Jillian Jones,1,15,Dallas Cowboys,14,Manual,2023-09-06 21:28:29,0
+Jillian Jones,1,16,Buffalo Bills,4,Manual,2023-09-06 21:28:29,0
+Kristina Anderson,1,1,Kansas City Chiefs,16,Manual,2023-09-07 07:17:47,0
+Kristina Anderson,1,2,Washington Commanders,13,Manual,2023-09-07 07:17:47,0
+Kristina Anderson,1,3,Carolina Panthers,1,Manual,2023-09-07 07:17:47,0
+Kristina Anderson,1,4,Cleveland Browns,7,Manual,2023-09-07 07:17:47,0
+Kristina Anderson,1,5,Baltimore Ravens,12,Manual,2023-09-07 07:17:47,0
+Kristina Anderson,1,6,Jacksonville Jaguars,11,Manual,2023-09-07 07:17:47,0
+Kristina Anderson,1,7,San Francisco 49ers,2,Manual,2023-09-07 07:17:47,0
+Kristina Anderson,1,8,Minnesota Vikings,3,Manual,2023-09-07 07:17:47,0
+Kristina Anderson,1,9,New Orleans Saints,9,Manual,2023-09-07 07:17:47,0
+Kristina Anderson,1,10,Green Bay Packers,10,Manual,2023-09-07 07:17:47,0
+Kristina Anderson,1,11,Denver Broncos,5,Manual,2023-09-07 07:17:47,0
+Kristina Anderson,1,12,Seattle Seahawks,8,Manual,2023-09-07 07:17:47,0
+Kristina Anderson,1,13,Miami Dolphins,4,Manual,2023-09-07 07:17:47,0
+Kristina Anderson,1,14,Philadelphia Eagles,14,Manual,2023-09-07 07:17:47,0
+Kristina Anderson,1,15,New York Giants,6,Manual,2023-09-07 07:17:47,0
+Kristina Anderson,1,16,Buffalo Bills,15,Manual,2023-09-07 07:17:47,0
+Cam Mattie,1,1,Kansas City Chiefs,12,Manual,2023-09-07 07:31:37,0
+Cam Mattie,1,2,Washington Commanders,4,Manual,2023-09-07 07:31:37,0
+Cam Mattie,1,3,Atlanta Falcons,15,Manual,2023-09-07 07:31:37,0
+Cam Mattie,1,4,Cincinnati Bengals,14,Manual,2023-09-07 07:31:37,0
+Cam Mattie,1,5,Baltimore Ravens,16,Manual,2023-09-07 07:31:37,0
+Cam Mattie,1,6,Jacksonville Jaguars,11,Manual,2023-09-07 07:31:37,0
+Cam Mattie,1,7,San Francisco 49ers,3,Manual,2023-09-07 07:31:37,0
+Cam Mattie,1,8,Minnesota Vikings,8,Manual,2023-09-07 07:31:37,0
+Cam Mattie,1,9,New Orleans Saints,7,Manual,2023-09-07 07:31:37,0
+Cam Mattie,1,10,Chicago Bears,5,Manual,2023-09-07 07:31:37,0
+Cam Mattie,1,11,Las Vegas Raiders,1,Manual,2023-09-07 07:31:37,0
+Cam Mattie,1,12,Seattle Seahawks,9,Manual,2023-09-07 07:31:37,0
+Cam Mattie,1,13,Los Angeles Chargers,6,Manual,2023-09-07 07:31:37,0
+Cam Mattie,1,14,Philadelphia Eagles,13,Manual,2023-09-07 07:31:37,0
+Cam Mattie,1,15,Dallas Cowboys,2,Manual,2023-09-07 07:31:37,0
+Cam Mattie,1,16,Buffalo Bills,10,Manual,2023-09-07 07:31:37,0
+Sang Du,1,1,Kansas City Chiefs,16,Manual,2023-09-07 07:32:49,0
+Sang Du,1,2,Washington Commanders,7,Manual,2023-09-07 07:32:49,0
+Sang Du,1,3,Atlanta Falcons,9,Manual,2023-09-07 07:32:49,0
+Sang Du,1,4,Cincinnati Bengals,10,Manual,2023-09-07 07:32:49,0
+Sang Du,1,5,Baltimore Ravens,14,Manual,2023-09-07 07:32:49,0
+Sang Du,1,6,Indianapolis Colts,13,Manual,2023-09-07 07:32:49,0
+Sang Du,1,7,San Francisco 49ers,11,Manual,2023-09-07 07:32:49,0
+Sang Du,1,8,Minnesota Vikings,8,Manual,2023-09-07 07:32:49,0
+Sang Du,1,9,Tennessee Titans,6,Manual,2023-09-07 07:32:49,0
+Sang Du,1,10,Chicago Bears,5,Manual,2023-09-07 07:32:49,0
+Sang Du,1,11,Denver Broncos,2,Manual,2023-09-07 07:32:49,0
+Sang Du,1,12,Seattle Seahawks,1,Manual,2023-09-07 07:32:49,0
+Sang Du,1,13,Los Angeles Chargers,4,Manual,2023-09-07 07:32:49,0
+Sang Du,1,14,Philadelphia Eagles,3,Manual,2023-09-07 07:32:49,0
+Sang Du,1,15,Dallas Cowboys,12,Manual,2023-09-07 07:32:49,0
+Sang Du,1,16,Buffalo Bills,15,Manual,2023-09-07 07:32:49,0
+Tommie Brooks,1,1,Detroit Lions,1,Manual,2023-09-07 07:34:31,0
+Tommie Brooks,1,2,Washington Commanders,15,Manual,2023-09-07 07:34:31,0
+Tommie Brooks,1,3,Atlanta Falcons,2,Manual,2023-09-07 07:34:31,0
+Tommie Brooks,1,4,Cincinnati Bengals,10,Manual,2023-09-07 07:34:31,0
+Tommie Brooks,1,5,Baltimore Ravens,16,Manual,2023-09-07 07:34:31,0
+Tommie Brooks,1,6,Jacksonville Jaguars,3,Manual,2023-09-07 07:34:31,0
+Tommie Brooks,1,7,San Francisco 49ers,4,Manual,2023-09-07 07:34:31,0
+Tommie Brooks,1,8,Minnesota Vikings,14,Manual,2023-09-07 07:34:31,0
+Tommie Brooks,1,9,Tennessee Titans,5,Manual,2023-09-07 07:34:31,0
+Tommie Brooks,1,10,Chicago Bears,13,Manual,2023-09-07 07:34:31,0
+Tommie Brooks,1,11,Denver Broncos,8,Manual,2023-09-07 07:34:31,0
+Tommie Brooks,1,12,Seattle Seahawks,9,Manual,2023-09-07 07:34:31,0
+Tommie Brooks,1,13,Los Angeles Chargers,12,Manual,2023-09-07 07:34:31,0
+Tommie Brooks,1,14,Philadelphia Eagles,11,Manual,2023-09-07 07:34:31,0
+Tommie Brooks,1,15,Dallas Cowboys,6,Manual,2023-09-07 07:34:31,0
+Tommie Brooks,1,16,Buffalo Bills,7,Manual,2023-09-07 07:34:31,0
+Chris Berg,1,1,Kansas City Chiefs,11,Manual,2023-09-07 08:35:34,0
+Chris Berg,1,2,Washington Commanders,15,Manual,2023-09-07 08:35:34,0
+Chris Berg,1,3,Atlanta Falcons,9,Manual,2023-09-07 08:35:34,0
+Chris Berg,1,4,Cincinnati Bengals,4,Manual,2023-09-07 08:35:34,0
+Chris Berg,1,5,Baltimore Ravens,16,Manual,2023-09-07 08:35:34,0
+Chris Berg,1,6,Jacksonville Jaguars,12,Manual,2023-09-07 08:35:34,0
+Chris Berg,1,7,San Francisco 49ers,3,Manual,2023-09-07 08:35:34,0
+Chris Berg,1,8,Minnesota Vikings,14,Manual,2023-09-07 08:35:34,0
+Chris Berg,1,9,New Orleans Saints,6,Manual,2023-09-07 08:35:34,0
+Chris Berg,1,10,Chicago Bears,1,Manual,2023-09-07 08:35:34,0
+Chris Berg,1,11,Denver Broncos,8,Manual,2023-09-07 08:35:34,0
+Chris Berg,1,12,Seattle Seahawks,13,Manual,2023-09-07 08:35:34,0
+Chris Berg,1,13,Los Angeles Chargers,5,Manual,2023-09-07 08:35:34,0
+Chris Berg,1,14,Philadelphia Eagles,10,Manual,2023-09-07 08:35:34,0
+Chris Berg,1,15,Dallas Cowboys,7,Manual,2023-09-07 08:35:34,0
+Chris Berg,1,16,Buffalo Bills,2,Manual,2023-09-07 08:35:34,0
+Andy Hill,1,1,Kansas City Chiefs,11,Manual,2023-09-07 08:38:45,0
+Andy Hill,1,2,Washington Commanders,15,Manual,2023-09-07 08:38:45,0
+Andy Hill,1,3,Atlanta Falcons,8,Manual,2023-09-07 08:38:45,0
+Andy Hill,1,4,Cincinnati Bengals,9,Manual,2023-09-07 08:38:45,0
+Andy Hill,1,5,Baltimore Ravens,16,Manual,2023-09-07 08:38:45,0
+Andy Hill,1,6,Jacksonville Jaguars,12,Manual,2023-09-07 08:38:45,0
+Andy Hill,1,7,San Francisco 49ers,4,Manual,2023-09-07 08:38:45,0
+Andy Hill,1,8,Minnesota Vikings,13,Manual,2023-09-07 08:38:45,0
+Andy Hill,1,9,New Orleans Saints,6,Manual,2023-09-07 08:38:45,0
+Andy Hill,1,10,Green Bay Packers,1,Manual,2023-09-07 08:38:45,0
+Andy Hill,1,11,Denver Broncos,2,Manual,2023-09-07 08:38:45,0
+Andy Hill,1,12,Seattle Seahawks,14,Manual,2023-09-07 08:38:45,0
+Andy Hill,1,13,Miami Dolphins,5,Manual,2023-09-07 08:38:45,0
+Andy Hill,1,14,Philadelphia Eagles,10,Manual,2023-09-07 08:38:45,0
+Andy Hill,1,15,Dallas Cowboys,7,Manual,2023-09-07 08:38:45,0
+Andy Hill,1,16,Buffalo Bills,3,Manual,2023-09-07 08:38:45,0
+Jason Ash,1,1,Kansas City Chiefs,12,Manual,2023-09-07 08:56:59,0
+Jason Ash,1,2,Washington Commanders,15,Manual,2023-09-07 08:56:59,0
+Jason Ash,1,3,Atlanta Falcons,8,Manual,2023-09-07 08:56:59,0
+Jason Ash,1,4,Cincinnati Bengals,3,Manual,2023-09-07 08:56:59,0
+Jason Ash,1,5,Baltimore Ravens,16,Manual,2023-09-07 08:56:59,0
+Jason Ash,1,6,Jacksonville Jaguars,11,Manual,2023-09-07 08:56:59,0
+Jason Ash,1,7,San Francisco 49ers,4,Manual,2023-09-07 08:56:59,0
+Jason Ash,1,8,Minnesota Vikings,14,Manual,2023-09-07 08:56:59,0
+Jason Ash,1,9,New Orleans Saints,5,Manual,2023-09-07 08:56:59,0
+Jason Ash,1,10,Chicago Bears,1,Manual,2023-09-07 08:56:59,0
+Jason Ash,1,11,Denver Broncos,10,Manual,2023-09-07 08:56:59,0
+Jason Ash,1,12,Seattle Seahawks,13,Manual,2023-09-07 08:56:59,0
+Jason Ash,1,13,Los Angeles Chargers,6,Manual,2023-09-07 08:56:59,0
+Jason Ash,1,14,Philadelphia Eagles,9,Manual,2023-09-07 08:56:59,0
+Jason Ash,1,15,Dallas Cowboys,7,Manual,2023-09-07 08:56:59,0
+Jason Ash,1,16,Buffalo Bills,2,Manual,2023-09-07 08:56:59,0
+Lashonda Dickson,1,1,Kansas City Chiefs,11,Manual,2023-09-07 08:59:01,0
+Lashonda Dickson,1,2,Washington Commanders,15,Manual,2023-09-07 08:59:01,0
+Lashonda Dickson,1,3,Atlanta Falcons,5,Manual,2023-09-07 08:59:01,0
+Lashonda Dickson,1,4,Cincinnati Bengals,1,Manual,2023-09-07 08:59:01,0
+Lashonda Dickson,1,5,Baltimore Ravens,16,Manual,2023-09-07 08:59:01,0
+Lashonda Dickson,1,6,Jacksonville Jaguars,14,Manual,2023-09-07 08:59:01,0
+Lashonda Dickson,1,7,San Francisco 49ers,3,Manual,2023-09-07 08:59:01,0
+Lashonda Dickson,1,8,Minnesota Vikings,4,Manual,2023-09-07 08:59:01,0
+Lashonda Dickson,1,9,New Orleans Saints,6,Manual,2023-09-07 08:59:01,0
+Lashonda Dickson,1,10,Chicago Bears,7,Manual,2023-09-07 08:59:01,0
+Lashonda Dickson,1,11,Denver Broncos,8,Manual,2023-09-07 08:59:01,0
+Lashonda Dickson,1,12,Seattle Seahawks,12,Manual,2023-09-07 08:59:01,0
+Lashonda Dickson,1,13,Miami Dolphins,9,Manual,2023-09-07 08:59:01,0
+Lashonda Dickson,1,14,Philadelphia Eagles,13,Manual,2023-09-07 08:59:01,0
+Lashonda Dickson,1,15,Dallas Cowboys,10,Manual,2023-09-07 08:59:01,0
+Lashonda Dickson,1,16,New York Jets,2,Manual,2023-09-07 08:59:01,0
+Dena Ashlock,1,1,Kansas City Chiefs,11,Manual,2023-09-07 10:38:58,0
+Dena Ashlock,1,2,Washington Commanders,15,Manual,2023-09-07 10:38:58,0
+Dena Ashlock,1,3,Atlanta Falcons,7,Manual,2023-09-07 10:38:58,0
+Dena Ashlock,1,4,Cincinnati Bengals,2,Manual,2023-09-07 10:38:58,0
+Dena Ashlock,1,5,Baltimore Ravens,16,Manual,2023-09-07 10:38:58,0
+Dena Ashlock,1,6,Jacksonville Jaguars,12,Manual,2023-09-07 10:38:58,0
+Dena Ashlock,1,7,Pittsburgh Steelers,3,Manual,2023-09-07 10:38:58,0
+Dena Ashlock,1,8,Minnesota Vikings,14,Manual,2023-09-07 10:38:58,0
+Dena Ashlock,1,9,New Orleans Saints,6,Manual,2023-09-07 10:38:58,0
+Dena Ashlock,1,10,Green Bay Packers,1,Manual,2023-09-07 10:38:58,0
+Dena Ashlock,1,11,Denver Broncos,8,Manual,2023-09-07 10:38:58,0
+Dena Ashlock,1,12,Seattle Seahawks,13,Manual,2023-09-07 10:38:58,0
+Dena Ashlock,1,13,Los Angeles Chargers,5,Manual,2023-09-07 10:38:58,0
+Dena Ashlock,1,14,Philadelphia Eagles,10,Manual,2023-09-07 10:38:58,0
+Dena Ashlock,1,15,Dallas Cowboys,9,Manual,2023-09-07 10:38:58,0
+Dena Ashlock,1,16,Buffalo Bills,4,Manual,2023-09-07 10:38:58,0
+Julia Hoedemaker,1,1,Kansas City Chiefs,11,Manual,2023-09-07 10:50:29,0
+Julia Hoedemaker,1,2,Washington Commanders,5,Manual,2023-09-07 10:50:29,0
+Julia Hoedemaker,1,3,Atlanta Falcons,3,Manual,2023-09-07 10:50:29,0
+Julia Hoedemaker,1,4,Cincinnati Bengals,13,Manual,2023-09-07 10:50:29,0
+Julia Hoedemaker,1,5,Baltimore Ravens,16,Manual,2023-09-07 10:50:29,0
+Julia Hoedemaker,1,6,Jacksonville Jaguars,15,Manual,2023-09-07 10:50:29,0
+Julia Hoedemaker,1,7,San Francisco 49ers,8,Manual,2023-09-07 10:50:29,0
+Julia Hoedemaker,1,8,Minnesota Vikings,12,Manual,2023-09-07 10:50:29,0
+Julia Hoedemaker,1,9,Tennessee Titans,7,Manual,2023-09-07 10:50:29,0
+Julia Hoedemaker,1,10,Chicago Bears,4,Manual,2023-09-07 10:50:29,0
+Julia Hoedemaker,1,11,Las Vegas Raiders,2,Manual,2023-09-07 10:50:29,0
+Julia Hoedemaker,1,12,Seattle Seahawks,10,Manual,2023-09-07 10:50:29,0
+Julia Hoedemaker,1,13,Miami Dolphins,9,Manual,2023-09-07 10:50:29,0
+Julia Hoedemaker,1,14,Philadelphia Eagles,14,Manual,2023-09-07 10:50:29,0
+Julia Hoedemaker,1,15,New York Giants,6,Manual,2023-09-07 10:50:29,0
+Julia Hoedemaker,1,16,Buffalo Bills,1,Manual,2023-09-07 10:50:29,0
+Kevin Desaulnier,1,1,Kansas City Chiefs,16,Manual,2023-09-07 11:58:49,0
+Kevin Desaulnier,1,2,Washington Commanders,1,Manual,2023-09-07 11:58:49,0
+Kevin Desaulnier,1,3,Carolina Panthers,3,Manual,2023-09-07 11:58:49,0
+Kevin Desaulnier,1,4,Cincinnati Bengals,14,Manual,2023-09-07 11:58:49,0
+Kevin Desaulnier,1,5,Baltimore Ravens,11,Manual,2023-09-07 11:58:49,0
+Kevin Desaulnier,1,6,Jacksonville Jaguars,8,Manual,2023-09-07 11:58:49,0
+Kevin Desaulnier,1,7,San Francisco 49ers,12,Manual,2023-09-07 11:58:49,0
+Kevin Desaulnier,1,8,Minnesota Vikings,5,Manual,2023-09-07 11:58:49,0
+Kevin Desaulnier,1,9,New Orleans Saints,6,Manual,2023-09-07 11:58:49,0
+Kevin Desaulnier,1,10,Green Bay Packers,4,Manual,2023-09-07 11:58:49,0
+Kevin Desaulnier,1,11,Denver Broncos,2,Manual,2023-09-07 11:58:49,0
+Kevin Desaulnier,1,12,Seattle Seahawks,7,Manual,2023-09-07 11:58:49,0
+Kevin Desaulnier,1,13,Miami Dolphins,9,Manual,2023-09-07 11:58:49,0
+Kevin Desaulnier,1,14,Philadelphia Eagles,15,Manual,2023-09-07 11:58:49,0
+Kevin Desaulnier,1,15,Dallas Cowboys,10,Manual,2023-09-07 11:58:49,0
+Kevin Desaulnier,1,16,Buffalo Bills,13,Manual,2023-09-07 11:58:49,0
+Kimberly Youngman,1,1,Kansas City Chiefs,9,Manual,2023-09-07 12:40:01,0
+Kimberly Youngman,1,2,Washington Commanders,7,Manual,2023-09-07 12:40:01,0
+Kimberly Youngman,1,3,Atlanta Falcons,6,Manual,2023-09-07 12:40:01,0
+Kimberly Youngman,1,4,Cincinnati Bengals,12,Manual,2023-09-07 12:40:01,0
+Kimberly Youngman,1,5,Baltimore Ravens,16,Manual,2023-09-07 12:40:01,0
+Kimberly Youngman,1,6,Jacksonville Jaguars,14,Manual,2023-09-07 12:40:01,0
+Kimberly Youngman,1,7,San Francisco 49ers,8,Manual,2023-09-07 12:40:01,0
+Kimberly Youngman,1,8,Minnesota Vikings,10,Manual,2023-09-07 12:40:01,0
+Kimberly Youngman,1,9,New Orleans Saints,3,Manual,2023-09-07 12:40:01,0
+Kimberly Youngman,1,10,Green Bay Packers,2,Manual,2023-09-07 12:40:01,0
+Kimberly Youngman,1,11,Denver Broncos,4,Manual,2023-09-07 12:40:01,0
+Kimberly Youngman,1,12,Seattle Seahawks,13,Manual,2023-09-07 12:40:01,0
+Kimberly Youngman,1,13,Miami Dolphins,1,Manual,2023-09-07 12:40:01,0
+Kimberly Youngman,1,14,Philadelphia Eagles,15,Manual,2023-09-07 12:40:01,0
+Kimberly Youngman,1,15,Dallas Cowboys,11,Manual,2023-09-07 12:40:01,0
+Kimberly Youngman,1,16,Buffalo Bills,5,Manual,2023-09-07 12:40:01,0
+Ragini Ramalingam,1,1,Kansas City Chiefs,16,Manual,2023-09-07 13:35:46,0
+Ragini Ramalingam,1,2,Washington Commanders,9,Manual,2023-09-07 13:35:46,0
+Ragini Ramalingam,1,3,Carolina Panthers,5,Manual,2023-09-07 13:35:46,0
+Ragini Ramalingam,1,4,Cincinnati Bengals,14,Manual,2023-09-07 13:35:46,0
+Ragini Ramalingam,1,5,Baltimore Ravens,12,Manual,2023-09-07 13:35:46,0
+Ragini Ramalingam,1,6,Jacksonville Jaguars,13,Manual,2023-09-07 13:35:46,0
+Ragini Ramalingam,1,7,San Francisco 49ers,6,Manual,2023-09-07 13:35:46,0
+Ragini Ramalingam,1,8,Minnesota Vikings,8,Manual,2023-09-07 13:35:46,0
+Ragini Ramalingam,1,9,Tennessee Titans,4,Manual,2023-09-07 13:35:46,0
+Ragini Ramalingam,1,10,Green Bay Packers,7,Manual,2023-09-07 13:35:46,0
+Ragini Ramalingam,1,11,Denver Broncos,10,Manual,2023-09-07 13:35:46,0
+Ragini Ramalingam,1,12,Seattle Seahawks,15,Manual,2023-09-07 13:35:46,0
+Ragini Ramalingam,1,13,Miami Dolphins,3,Manual,2023-09-07 13:35:46,0
+Ragini Ramalingam,1,14,Philadelphia Eagles,11,Manual,2023-09-07 13:35:46,0
+Ragini Ramalingam,1,15,Dallas Cowboys,1,Manual,2023-09-07 13:35:46,0
+Ragini Ramalingam,1,16,New York Jets,2,Manual,2023-09-07 13:35:46,0
+Jaswinder Kahlon,1,1,Kansas City Chiefs,1,Manual,2023-09-07 13:55:46,0
+Jaswinder Kahlon,1,2,Washington Commanders,13,Manual,2023-09-07 13:55:46,0
+Jaswinder Kahlon,1,3,Atlanta Falcons,5,Manual,2023-09-07 13:55:46,0
+Jaswinder Kahlon,1,4,Cleveland Browns,2,Manual,2023-09-07 13:55:46,0
+Jaswinder Kahlon,1,5,Baltimore Ravens,16,Manual,2023-09-07 13:55:46,0
+Jaswinder Kahlon,1,6,Jacksonville Jaguars,15,Manual,2023-09-07 13:55:46,0
+Jaswinder Kahlon,1,7,San Francisco 49ers,9,Manual,2023-09-07 13:55:46,0
+Jaswinder Kahlon,1,8,Minnesota Vikings,11,Manual,2023-09-07 13:55:46,0
+Jaswinder Kahlon,1,9,New Orleans Saints,7,Manual,2023-09-07 13:55:46,0
+Jaswinder Kahlon,1,10,Green Bay Packers,8,Manual,2023-09-07 13:55:46,0
+Jaswinder Kahlon,1,11,Denver Broncos,6,Manual,2023-09-07 13:55:46,0
+Jaswinder Kahlon,1,12,Seattle Seahawks,12,Manual,2023-09-07 13:55:46,0
+Jaswinder Kahlon,1,13,Los Angeles Chargers,3,Manual,2023-09-07 13:55:46,0
+Jaswinder Kahlon,1,14,Philadelphia Eagles,14,Manual,2023-09-07 13:55:46,0
+Jaswinder Kahlon,1,15,Dallas Cowboys,10,Manual,2023-09-07 13:55:46,0
+Jaswinder Kahlon,1,16,Buffalo Bills,4,Manual,2023-09-07 13:55:46,0
+Kevin Larsen,1,1,Kansas City Chiefs,11,Manual,2023-09-07 14:33:31,0
+Kevin Larsen,1,2,Washington Commanders,15,Manual,2023-09-07 14:33:31,0
+Kevin Larsen,1,3,Atlanta Falcons,9,Manual,2023-09-07 14:33:31,0
+Kevin Larsen,1,4,Cincinnati Bengals,3,Manual,2023-09-07 14:33:31,0
+Kevin Larsen,1,5,Baltimore Ravens,16,Manual,2023-09-07 14:33:31,0
+Kevin Larsen,1,6,Jacksonville Jaguars,12,Manual,2023-09-07 14:33:31,0
+Kevin Larsen,1,7,San Francisco 49ers,4,Manual,2023-09-07 14:33:31,0
+Kevin Larsen,1,8,Minnesota Vikings,13,Manual,2023-09-07 14:33:31,0
+Kevin Larsen,1,9,New Orleans Saints,6,Manual,2023-09-07 14:33:31,0
+Kevin Larsen,1,10,Green Bay Packers,1,Manual,2023-09-07 14:33:31,0
+Kevin Larsen,1,11,Denver Broncos,8,Manual,2023-09-07 14:33:31,0
+Kevin Larsen,1,12,Seattle Seahawks,14,Manual,2023-09-07 14:33:31,0
+Kevin Larsen,1,13,Los Angeles Chargers,5,Manual,2023-09-07 14:33:31,0
+Kevin Larsen,1,14,Philadelphia Eagles,10,Manual,2023-09-07 14:33:31,0
+Kevin Larsen,1,15,Dallas Cowboys,7,Manual,2023-09-07 14:33:31,0
+Kevin Larsen,1,16,Buffalo Bills,2,Manual,2023-09-07 14:33:31,0
+Cedar Athanases,1,1,Kansas City Chiefs,9,Manual,2023-09-07 15:04:28,0
+Cedar Athanases,1,2,Washington Commanders,13,Manual,2023-09-07 15:04:28,0
+Cedar Athanases,1,3,Atlanta Falcons,1,Manual,2023-09-07 15:04:28,0
+Cedar Athanases,1,4,Cincinnati Bengals,15,Manual,2023-09-07 15:04:28,0
+Cedar Athanases,1,5,Baltimore Ravens,16,Manual,2023-09-07 15:04:28,0
+Cedar Athanases,1,6,Jacksonville Jaguars,10,Manual,2023-09-07 15:04:28,0
+Cedar Athanases,1,7,San Francisco 49ers,8,Manual,2023-09-07 15:04:28,0
+Cedar Athanases,1,8,Minnesota Vikings,14,Manual,2023-09-07 15:04:28,0
+Cedar Athanases,1,9,New Orleans Saints,3,Manual,2023-09-07 15:04:28,0
+Cedar Athanases,1,10,Chicago Bears,2,Manual,2023-09-07 15:04:28,0
+Cedar Athanases,1,11,Denver Broncos,4,Manual,2023-09-07 15:04:28,0
+Cedar Athanases,1,12,Seattle Seahawks,12,Manual,2023-09-07 15:04:28,0
+Cedar Athanases,1,13,Los Angeles Chargers,5,Manual,2023-09-07 15:04:28,0
+Cedar Athanases,1,14,Philadelphia Eagles,11,Manual,2023-09-07 15:04:28,0
+Cedar Athanases,1,15,Dallas Cowboys,7,Manual,2023-09-07 15:04:28,0
+Cedar Athanases,1,16,Buffalo Bills,6,Manual,2023-09-07 15:04:28,0
+Heather Wesley,1,1,Kansas City Chiefs,4,Manual,2023-09-07 15:22:19,0
+Heather Wesley,1,2,Washington Commanders,11,Manual,2023-09-07 15:22:19,0
+Heather Wesley,1,3,Atlanta Falcons,3,Manual,2023-09-07 15:22:19,0
+Heather Wesley,1,4,Cincinnati Bengals,13,Manual,2023-09-07 15:22:19,0
+Heather Wesley,1,5,Baltimore Ravens,14,Manual,2023-09-07 15:22:19,0
+Heather Wesley,1,6,Jacksonville Jaguars,15,Manual,2023-09-07 15:22:19,0
+Heather Wesley,1,7,San Francisco 49ers,6,Manual,2023-09-07 15:22:19,0
+Heather Wesley,1,8,Minnesota Vikings,12,Manual,2023-09-07 15:22:19,0
+Heather Wesley,1,9,New Orleans Saints,5,Manual,2023-09-07 15:22:19,0
+Heather Wesley,1,10,Green Bay Packers,10,Manual,2023-09-07 15:22:19,0
+Heather Wesley,1,11,Las Vegas Raiders,9,Manual,2023-09-07 15:22:19,0
+Heather Wesley,1,12,Seattle Seahawks,8,Manual,2023-09-07 15:22:19,0
+Heather Wesley,1,13,Los Angeles Chargers,2,Manual,2023-09-07 15:22:19,0
+Heather Wesley,1,14,Philadelphia Eagles,16,Manual,2023-09-07 15:22:19,0
+Heather Wesley,1,15,Dallas Cowboys,7,Manual,2023-09-07 15:22:19,0
+Heather Wesley,1,16,Buffalo Bills,1,Manual,2023-09-07 15:22:19,0
+Mimi Eng,1,1,Kansas City Chiefs,15,Manual,2023-09-07 15:25:16,0
+Mimi Eng,1,2,Washington Commanders,14,Manual,2023-09-07 15:25:16,0
+Mimi Eng,1,3,Atlanta Falcons,2,Manual,2023-09-07 15:25:16,0
+Mimi Eng,1,4,Cincinnati Bengals,8,Manual,2023-09-07 15:25:16,0
+Mimi Eng,1,5,Baltimore Ravens,16,Manual,2023-09-07 15:25:16,0
+Mimi Eng,1,6,Jacksonville Jaguars,12,Manual,2023-09-07 15:25:16,0
+Mimi Eng,1,7,Pittsburgh Steelers,9,Manual,2023-09-07 15:25:16,0
+Mimi Eng,1,8,Tampa Bay Buccaneers,11,Manual,2023-09-07 15:25:16,0
+Mimi Eng,1,9,New Orleans Saints,3,Manual,2023-09-07 15:25:16,0
+Mimi Eng,1,10,Chicago Bears,7,Manual,2023-09-07 15:25:16,0
+Mimi Eng,1,11,Denver Broncos,1,Manual,2023-09-07 15:25:16,0
+Mimi Eng,1,12,Seattle Seahawks,13,Manual,2023-09-07 15:25:16,0
+Mimi Eng,1,13,Miami Dolphins,4,Manual,2023-09-07 15:25:16,0
+Mimi Eng,1,14,Philadelphia Eagles,10,Manual,2023-09-07 15:25:16,0
+Mimi Eng,1,15,Dallas Cowboys,6,Manual,2023-09-07 15:25:16,0
+Mimi Eng,1,16,Buffalo Bills,5,Manual,2023-09-07 15:25:16,0
+Chenae Knighton Bachelor,1,1,Kansas City Chiefs,14,Manual,2023-09-07 15:41:08,0
+Chenae Knighton Bachelor,1,2,Washington Commanders,16,Manual,2023-09-07 15:41:08,0
+Chenae Knighton Bachelor,1,3,Carolina Panthers,10,Manual,2023-09-07 15:41:08,0
+Chenae Knighton Bachelor,1,4,Cincinnati Bengals,12,Manual,2023-09-07 15:41:08,0
+Chenae Knighton Bachelor,1,5,Baltimore Ravens,13,Manual,2023-09-07 15:41:08,0
+Chenae Knighton Bachelor,1,6,Jacksonville Jaguars,15,Manual,2023-09-07 15:41:08,0
+Chenae Knighton Bachelor,1,7,San Francisco 49ers,8,Manual,2023-09-07 15:41:08,0
+Chenae Knighton Bachelor,1,8,Minnesota Vikings,4,Manual,2023-09-07 15:41:08,0
+Chenae Knighton Bachelor,1,9,New Orleans Saints,7,Manual,2023-09-07 15:41:08,0
+Chenae Knighton Bachelor,1,10,Chicago Bears,9,Manual,2023-09-07 15:41:08,0
+Chenae Knighton Bachelor,1,11,Las Vegas Raiders,5,Manual,2023-09-07 15:41:08,0
+Chenae Knighton Bachelor,1,12,Seattle Seahawks,11,Manual,2023-09-07 15:41:08,0
+Chenae Knighton Bachelor,1,13,Los Angeles Chargers,1,Manual,2023-09-07 15:41:08,0
+Chenae Knighton Bachelor,1,14,Philadelphia Eagles,6,Manual,2023-09-07 15:41:08,0
+Chenae Knighton Bachelor,1,15,Dallas Cowboys,3,Manual,2023-09-07 15:41:08,0
+Chenae Knighton Bachelor,1,16,Buffalo Bills,2,Manual,2023-09-07 15:41:08,0
+Garrett Larsen,1,1,Kansas City Chiefs,8,Manual,2023-09-07 15:43:37,0
+Garrett Larsen,1,2,Washington Commanders,12,Manual,2023-09-07 15:43:37,0
+Garrett Larsen,1,3,Atlanta Falcons,6,Manual,2023-09-07 15:43:37,0
+Garrett Larsen,1,4,Cincinnati Bengals,10,Manual,2023-09-07 15:43:37,0
+Garrett Larsen,1,5,Baltimore Ravens,15,Manual,2023-09-07 15:43:37,0
+Garrett Larsen,1,6,Jacksonville Jaguars,7,Manual,2023-09-07 15:43:37,0
+Garrett Larsen,1,7,San Francisco 49ers,4,Manual,2023-09-07 15:43:37,0
+Garrett Larsen,1,8,Minnesota Vikings,11,Manual,2023-09-07 15:43:37,0
+Garrett Larsen,1,9,Tennessee Titans,2,Manual,2023-09-07 15:43:37,0
+Garrett Larsen,1,10,Green Bay Packers,1,Manual,2023-09-07 15:43:37,0
+Garrett Larsen,1,11,Denver Broncos,3,Manual,2023-09-07 15:43:37,0
+Garrett Larsen,1,12,Seattle Seahawks,13,Manual,2023-09-07 15:43:37,0
+Garrett Larsen,1,13,Miami Dolphins,9,Manual,2023-09-07 15:43:37,0
+Garrett Larsen,1,14,Philadelphia Eagles,16,Manual,2023-09-07 15:43:37,0
+Garrett Larsen,1,15,New York Giants,5,Manual,2023-09-07 15:43:37,0
+Garrett Larsen,1,16,New York Jets,14,Manual,2023-09-07 15:43:37,0
+Jack Fritch,1,1,Kansas City Chiefs,7,Manual,2023-09-07 16:32:10,0
+Jack Fritch,1,2,Washington Commanders,8,Manual,2023-09-07 16:32:10,0
+Jack Fritch,1,3,Atlanta Falcons,4,Manual,2023-09-07 16:32:10,0
+Jack Fritch,1,4,Cincinnati Bengals,6,Manual,2023-09-07 16:32:10,0
+Jack Fritch,1,5,Baltimore Ravens,5,Manual,2023-09-07 16:32:10,0
+Jack Fritch,1,6,Jacksonville Jaguars,11,Manual,2023-09-07 16:32:10,0
+Jack Fritch,1,7,Pittsburgh Steelers,1,Manual,2023-09-07 16:32:10,0
+Jack Fritch,1,8,Minnesota Vikings,3,Manual,2023-09-07 16:32:10,0
+Jack Fritch,1,9,New Orleans Saints,2,Manual,2023-09-07 16:32:10,0
+Jack Fritch,1,10,Green Bay Packers,12,Manual,2023-09-07 16:32:10,0
+Jack Fritch,1,11,Denver Broncos,13,Manual,2023-09-07 16:32:10,0
+Jack Fritch,1,12,Seattle Seahawks,16,Manual,2023-09-07 16:32:10,0
+Jack Fritch,1,13,Miami Dolphins,14,Manual,2023-09-07 16:32:10,0
+Jack Fritch,1,14,Philadelphia Eagles,10,Manual,2023-09-07 16:32:10,0
+Jack Fritch,1,15,Dallas Cowboys,15,Manual,2023-09-07 16:32:10,0
+Jack Fritch,1,16,Buffalo Bills,9,Manual,2023-09-07 16:32:10,0
+Brian Salerno,1,1,Kansas City Chiefs,12,Manual,2023-09-07 16:36:51,0
+Brian Salerno,1,2,Washington Commanders,15,Manual,2023-09-07 16:36:51,0
+Brian Salerno,1,3,Atlanta Falcons,9,Manual,2023-09-07 16:36:51,0
+Brian Salerno,1,4,Cincinnati Bengals,2,Manual,2023-09-07 16:36:51,0
+Brian Salerno,1,5,Baltimore Ravens,16,Manual,2023-09-07 16:36:51,0
+Brian Salerno,1,6,Jacksonville Jaguars,14,Manual,2023-09-07 16:36:51,0
+Brian Salerno,1,7,San Francisco 49ers,3,Manual,2023-09-07 16:36:51,0
+Brian Salerno,1,8,Minnesota Vikings,13,Manual,2023-09-07 16:36:51,0
+Brian Salerno,1,9,New Orleans Saints,6,Manual,2023-09-07 16:36:51,0
+Brian Salerno,1,10,Chicago Bears,1,Manual,2023-09-07 16:36:51,0
+Brian Salerno,1,11,Denver Broncos,8,Manual,2023-09-07 16:36:51,0
+Brian Salerno,1,12,Seattle Seahawks,11,Manual,2023-09-07 16:36:51,0
+Brian Salerno,1,13,Los Angeles Chargers,5,Manual,2023-09-07 16:36:51,0
+Brian Salerno,1,14,Philadelphia Eagles,10,Manual,2023-09-07 16:36:51,0
+Brian Salerno,1,15,Dallas Cowboys,7,Manual,2023-09-07 16:36:51,0
+Brian Salerno,1,16,Buffalo Bills,4,Manual,2023-09-07 16:36:51,0
+Cedar Athanases,1,1,Kansas City Chiefs,6,Manual,2023-09-07 16:38:36,0
+Cedar Athanases,1,2,Washington Commanders,15,Manual,2023-09-07 16:38:36,0
+Cedar Athanases,1,3,Atlanta Falcons,1,Manual,2023-09-07 16:38:36,0
+Cedar Athanases,1,4,Cincinnati Bengals,5,Manual,2023-09-07 16:38:36,0
+Cedar Athanases,1,5,Baltimore Ravens,16,Manual,2023-09-07 16:38:36,0
+Cedar Athanases,1,6,Jacksonville Jaguars,14,Manual,2023-09-07 16:38:36,0
+Cedar Athanases,1,7,San Francisco 49ers,9,Manual,2023-09-07 16:38:36,0
+Cedar Athanases,1,8,Minnesota Vikings,10,Manual,2023-09-07 16:38:36,0
+Cedar Athanases,1,9,New Orleans Saints,3,Manual,2023-09-07 16:38:36,0
+Cedar Athanases,1,10,Chicago Bears,2,Manual,2023-09-07 16:38:36,0
+Cedar Athanases,1,11,Denver Broncos,4,Manual,2023-09-07 16:38:36,0
+Cedar Athanases,1,12,Seattle Seahawks,13,Manual,2023-09-07 16:38:36,0
+Cedar Athanases,1,13,Los Angeles Chargers,8,Manual,2023-09-07 16:38:36,0
+Cedar Athanases,1,14,Philadelphia Eagles,12,Manual,2023-09-07 16:38:36,0
+Cedar Athanases,1,15,Dallas Cowboys,11,Manual,2023-09-07 16:38:36,0
+Cedar Athanases,1,16,Buffalo Bills,7,Manual,2023-09-07 16:38:36,0
+Gurman Randhawa,1,1,Detroit Lions,4,Manual,2023-09-07 17:39:38,0
+Gurman Randhawa,1,2,Washington Commanders,10,Manual,2023-09-07 17:39:38,0
+Gurman Randhawa,1,3,Atlanta Falcons,3,Manual,2023-09-07 17:39:38,0
+Gurman Randhawa,1,4,Cleveland Browns,9,Manual,2023-09-07 17:39:38,0
+Gurman Randhawa,1,5,Baltimore Ravens,16,Manual,2023-09-07 17:39:38,0
+Gurman Randhawa,1,6,Jacksonville Jaguars,14,Manual,2023-09-07 17:39:38,0
+Gurman Randhawa,1,7,San Francisco 49ers,8,Manual,2023-09-07 17:39:38,0
+Gurman Randhawa,1,8,Minnesota Vikings,15,Manual,2023-09-07 17:39:38,0
+Gurman Randhawa,1,9,Tennessee Titans,7,Manual,2023-09-07 17:39:38,0
+Gurman Randhawa,1,10,Chicago Bears,5,Manual,2023-09-07 17:39:38,0
+Gurman Randhawa,1,11,Denver Broncos,13,Manual,2023-09-07 17:39:38,0
+Gurman Randhawa,1,12,Seattle Seahawks,12,Manual,2023-09-07 17:39:38,0
+Gurman Randhawa,1,13,Los Angeles Chargers,6,Manual,2023-09-07 17:39:38,0
+Gurman Randhawa,1,14,Philadelphia Eagles,11,Manual,2023-09-07 17:39:38,0
+Gurman Randhawa,1,15,Dallas Cowboys,2,Manual,2023-09-07 17:39:38,0
+Gurman Randhawa,1,16,New York Jets,1,Manual,2023-09-07 17:39:38,0
