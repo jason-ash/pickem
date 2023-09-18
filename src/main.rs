@@ -14,4 +14,9 @@ async fn main() {
         "failed to connect to database at: {}",
         &path.display()
     ));
+
+    match database::seed_data(&pool).await {
+        Ok(_) => (),
+        Err(e) => println!("Error seeding database: {}", e),
+    }
 }
